@@ -2,32 +2,32 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
-  description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+  title: "ChiehRu's Portfolio",
+  description: ".",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "ChiehRu Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "http://chiehrulin.com/",
   },
 };
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
-  logo_name: "AshutoshHathidara",
-  nickname: "layman_brother",
+  title: "ChiehRu Lin",
+  logo_name: "CRLin",
+  nickname: "Jenny Lin",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Currently pursuing a UX master degree at the University of Texas Austin, previously graduated from National Taiwan University (NTU) with bachelor degree in Japanese Language and Literature as well as Library and Information Science.",
   resumeLink:
     "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+  portfolio_repository:
+    "https://drive.google.com/file/d/1TOkEe7UUC8BMpfKxrQzDuihJ20DbEAzY/view?usp=drive_link",
+  githubProfile: "https://github.com/chiehrulin",
 };
 
 const socialMediaLinks = [
@@ -42,7 +42,7 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/ashutosh1919",
+    link: "https://github.com/chiehrulin",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
@@ -53,276 +53,437 @@ const socialMediaLinks = [
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
   {
-    name: "YouTube",
-    link: "https://youtube.com/c/DevSense19",
-    fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
-    backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
-  },
-  {
     name: "Gmail",
-    link: "mailto:ashutoshhathidara98@gmail.com",
+    link: "mailto:jenny.lin@utexas.edu",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
-  },
-  {
-    name: "Twitter",
-    link: "https://twitter.com/ashutosh_1919",
-    fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
-    backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
-  },
-  {
-    name: "Facebook",
-    link: "https://www.facebook.com/laymanbrother.19/",
-    fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
-    backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
-  },
-  {
-    name: "Instagram",
-    link: "https://www.instagram.com/layman_brother/",
-    fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
-    backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
 ];
 
 const skills = {
   data: [
     {
-      title: "Data Science & AI",
-      fileName: "DataScienceImg",
+      title: "Hello! I am Jenny!",
+      fileName: "",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        " I developed a passion for information studies during my third year of university. At NTU, I conducted research on data literacy and data visualization, focusing on information behavior and UI/UX design.",
+        " As an exchange student at Radboud University in the Netherlands (2022-2023), I delved into HCI and Communication studies, exploring AI and theories about information studies to help people get closer to the fast-changing techniques.",
+        " During an internship at the Ministry of Foreign Affairs (R.O.C.), Department of Archives, Information Management, and Telecommunications, I implemented a new interface in their information system, improving document cataloging, archiving, and access.",
+        " These experiences have strengthened my belief in the inseparable relationship between humans and information, leading me to contribute my skills and expertise to new projects and teams in the IT industry in the future.",
       ],
       softwareSkills: [
         {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
+          skillName: "",
+          fontAwesomeClassname: "",
           style: {
             backgroundColor: "transparent",
           },
         },
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000",
-          },
-        },
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
-        {
-          skillName: "Deeplearning",
-          imageSrc: "deeplearning_ai_logo.png",
-        },
-      ],
-    },
-    {
-      title: "Full Stack Development",
-      fileName: "FullStackImg",
-      skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
-      ],
-      softwareSkills: [
-        {
-          skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
-          style: {
-            color: "#E34F26",
-          },
-        },
-        {
-          skillName: "CSS3",
-          fontAwesomeClassname: "fa-css3",
-          style: {
-            color: "#1572B6",
-          },
-        },
-        {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699",
-          },
-        },
-        {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
-          style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E",
-          },
-        },
-        {
-          skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
-          style: {
-            color: "#61DAFB",
-          },
-        },
-        {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
-          style: {
-            color: "#339933",
-          },
-        },
-        {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
-          style: {
-            color: "#CB3837",
-          },
-        },
-        {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB",
-          },
-        },
-        {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399",
-          },
-        },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
-      ],
-    },
-    {
-      title: "Cloud Infra-Architecture",
-      fileName: "CloudInfraImg",
-      skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
-      ],
-      softwareSkills: [
-        {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
-          style: {
-            color: "#4285F4",
-          },
-        },
-        {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
-          style: {
-            color: "#FF9900",
-          },
-        },
-        {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
-          style: {
-            color: "#0089D6",
-          },
-        },
-        {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
-          style: {
-            color: "#FFCA28",
-          },
-        },
-        {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791",
-          },
-        },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
-          },
-        },
-        {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
-          style: {
-            color: "#1488C6",
-          },
-        },
-        {
-          skillName: "Kubernetes",
-          fontAwesomeClassname: "simple-icons:kubernetes",
-          style: {
-            color: "#326CE5",
-          },
-        },
-      ],
-    },
-    {
-      title: "UI/UX Design",
-      fileName: "DesignImg",
-      skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
-          style: {
-            color: "#FF2BC2",
-          },
-        },
-        {
-          skillName: "Figma",
-          fontAwesomeClassname: "simple-icons:figma",
-          style: {
-            color: "#F24E1E",
-          },
-        },
-        {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
-          style: {
-            color: "#FF7C00",
-          },
-        },
-        {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000",
-          },
-        },
+        // {
+        //   skillName: "Keras",
+        //   fontAwesomeClassname: "simple-icons:keras",
+        //   style: {
+        //     backgroundColor: "white",
+        //     color: "#D00000",
+        //   },
+        // },
+        // {
+        //   skillName: "PyTorch",
+        //   fontAwesomeClassname: "logos-pytorch",
+        //   style: {
+        //     backgroundColor: "transparent",
+        //   },
+        // },
+        // {
+        //   skillName: "Python",
+        //   fontAwesomeClassname: "ion-logo-python",
+        //   style: {
+        //     backgroundColor: "transparent",
+        //     color: "#3776AB",
+        //   },
+        // },
+        // {
+        //   skillName: "Deeplearning",
+        //   imageSrc: "deeplearning_ai_logo.png",
+        // },
+        //],
+        //},
+        // {
+        //   title: "Full Stack Development",
+        //   fileName: "FullStackImg",
+        //   skills: [
+        //     "⚡ Building responsive website front end using React-Redux",
+        //     "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
+        //     "⚡ Creating application backend in Node, Express & Flask",
+        //   ],
+        //   softwareSkills: [
+        //     {
+        //       skillName: "HTML5",
+        //       fontAwesomeClassname: "simple-icons:html5",
+        //       style: {
+        //         color: "#E34F26",
+        //       },
+        //     },
+        //     {
+        //       skillName: "CSS3",
+        //       fontAwesomeClassname: "fa-css3",
+        //       style: {
+        //         color: "#1572B6",
+        //       },
+        //     },
+        //     {
+        //       skillName: "Sass",
+        //       fontAwesomeClassname: "simple-icons:sass",
+        //       style: {
+        //         color: "#CC6699",
+        //       },
+        //     },
+        //     {
+        //       skillName: "JavaScript",
+        //       fontAwesomeClassname: "simple-icons:javascript",
+        //       style: {
+        //         backgroundColor: "#000000",
+        //         color: "#F7DF1E",
+        //       },
+        //     },
+        //     {
+        //       skillName: "ReactJS",
+        //       fontAwesomeClassname: "simple-icons:react",
+        //       style: {
+        //         color: "#61DAFB",
+        //       },
+        //     },
+        //     {
+        //       skillName: "NodeJS",
+        //       fontAwesomeClassname: "simple-icons:node-dot-js",
+        //       style: {
+        //         color: "#339933",
+        //       },
+        //     },
+        //     {
+        //       skillName: "NPM",
+        //       fontAwesomeClassname: "simple-icons:npm",
+        //       style: {
+        //         color: "#CB3837",
+        //       },
+        //     },
+        //     {
+        //       skillName: "Yarn",
+        //       fontAwesomeClassname: "simple-icons:yarn",
+        //       style: {
+        //         color: "#2C8EBB",
+        //       },
+        //     },
+        //     {
+        //       skillName: "Gatsby",
+        //       fontAwesomeClassname: "simple-icons:gatsby",
+        //       style: {
+        //         color: "#663399",
+        //       },
+        //     },
+        //     {
+        //       skillName: "Flutter",
+        //       fontAwesomeClassname: "simple-icons:flutter",
+        //       style: {
+        //         color: "#02569B",
+        //       },
+        //     },
+        //   ],
+        // },
+        // {
+        //   title: "Cloud Infra-Architecture",
+        //   fileName: "CloudInfraImg",
+        //   skills: [
+        //     "⚡ Experience working on multiple cloud platforms",
+        //     "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
+        //     "⚡ Deploying deep learning models on cloud to use on mobile devices",
+        //     "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        //   ],
+        //   softwareSkills: [
+        //     {
+        //       skillName: "GCP",
+        //       fontAwesomeClassname: "simple-icons:googlecloud",
+        //       style: {
+        //         color: "#4285F4",
+        //       },
+        //     },
+        //     {
+        //       skillName: "AWS",
+        //       fontAwesomeClassname: "simple-icons:amazonaws",
+        //       style: {
+        //         color: "#FF9900",
+        //       },
+        //     },
+        //     {
+        //       skillName: "Azure",
+        //       fontAwesomeClassname: "simple-icons:microsoftazure",
+        //       style: {
+        //         color: "#0089D6",
+        //       },
+        //     },
+        //     {
+        //       skillName: "Firebase",
+        //       fontAwesomeClassname: "simple-icons:firebase",
+        //       style: {
+        //         color: "#FFCA28",
+        //       },
+        //     },
+        //     {
+        //       skillName: "PostgreSQL",
+        //       fontAwesomeClassname: "simple-icons:postgresql",
+        //       style: {
+        //         color: "#336791",
+        //       },
+        //     },
+        //     {
+        //       skillName: "MongoDB",
+        //       fontAwesomeClassname: "simple-icons:mongodb",
+        //       style: {
+        //         color: "#47A248",
+        //       },
+        //     },
+        //     {
+        //       skillName: "Docker",
+        //       fontAwesomeClassname: "simple-icons:docker",
+        //       style: {
+        //         color: "#1488C6",
+        //       },
+        //     },
+        //     {
+        //       skillName: "Kubernetes",
+        //       fontAwesomeClassname: "simple-icons:kubernetes",
+        //       style: {
+        //         color: "#326CE5",
+        //       },
+        //     },
+        //   ],
+        // },
+        // {
+        //   title: "UI/UX Design",
+        //   fileName: "DesignImg",
+        //   skills: [
+        //     "⚡ Designing highly attractive user interface for mobile and web applications",
+        //     "⚡ Customizing logo designs and building logos from scratch",
+        //     "⚡ Creating the flow of application functionalities to optimize user experience",
+        //   ],
+        //   softwareSkills: [
+        //     {
+        //       skillName: "Adobe XD",
+        //       fontAwesomeClassname: "simple-icons:adobexd",
+        //       style: {
+        //         color: "#FF2BC2",
+        //       },
+        //     },
+        //     {
+        //       skillName: "Figma",
+        //       fontAwesomeClassname: "simple-icons:figma",
+        //       style: {
+        //         color: "#F24E1E",
+        //       },
+        //     },
+        //     {
+        //       skillName: "Adobe Illustrator",
+        //       fontAwesomeClassname: "simple-icons:adobeillustrator",
+        //       style: {
+        //         color: "#FF7C00",
+        //       },
+        //     },
+        //     {
+        //       skillName: "Inkscape",
+        //       fontAwesomeClassname: "simple-icons:inkscape",
+        //       style: {
+        //         color: "#000000",
+        //       },
+        //     },
       ],
     },
   ],
 };
 
+// Experience Page
+const experience = {
+  // title: "Experience",
+  // subtitle: "Work, Internship and Volunteership",
+  // description:
+  //   "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+  // header_image_path: "experience.svg",
+
+  sections: [
+    {
+      title: "Intern",
+      work: true,
+      experiences: [
+        {
+          title: "Internship",
+          company:
+            "Department of Archives, Information Management and Telecommunications, Ministry of Foreign Affairs (R.O.C.)",
+          // company_url: "https://legatohealthtech.com/",
+          logo_path: "ROC_Ministry_of_Foreign_Affairs.png",
+          duration: "Mar 2022 - Jun 2022",
+          location: "Taipei, Taiwan",
+          description:
+            "Designed a prototype and prepared A/B test to apply a new interface in the information system. Managed, cataloged, archived, analyzed, and transferred 1,000,000+ files to National Archives Administration in two months.",
+          color: "#0879bf",
+        },
+        {
+          title: "Internship",
+          company: "Champions Education Association",
+          //company_url: "https://www.linkedin.com/company/muffito-inc/about/",
+          logo_path: "de.png",
+          duration: "Sep 2021 - Jun 2022",
+          location: "Taipei, Taiwan",
+          description:
+            "Created mind games for teenagers on LINE Application by Python. Increased participants rate by 15%, compared to last season by using interactive chatbot.",
+          color: "#9b1578",
+        },
+        {
+          title: "Resaerch Assistant",
+          company: "Department of Library and Information Science, NTU",
+          //company_url: "https://www.linkedin.com/company/muffito-inc/about/",
+          logo_path: "National_Taiwan_University.png",
+          duration: "Sep 2021 - Jan 2022",
+          location: "Taipei, Taiwan",
+          description:
+            "Analyzed information visualization on epidemic websites throughout the world. Tested questionnaires, conducted visual-elicitation interviews, and analyzed students’ recognition of data in different disciplines.",
+          color: "#9b1578",
+        },
+        {
+          title: "Translator",
+          company: "HENNGE Taiwan, Inc.",
+          //company_url: "https://www.linkedin.com/company/freecopy/about/",
+          logo_path: "hennge.png",
+          duration: "Feb 2021 - Jul 2022",
+          location: "Taipei, Taiwan",
+          description:
+            "Translated articles form Japanese and English into Chinese on blog.",
+          color: "#fc1f20",
+        },
+        {
+          title: "Consultant Internship",
+          company: "Apply Consultant Company",
+          //company_url: "https://www.linkedin.com/company/freecopy/about/",
+          logo_path: "apply.png",
+          duration: "Jan 2020 - Feb 2020",
+          location: "Taipei, Taiwan",
+          description:
+            "Introduced products by telemarketing and improved sales rate by 10%. Organized and held a presentation of the product to the public.",
+          color: "#fc1f20",
+        },
+        {
+          title: "Statistical Analyst",
+          company: "MSL Group",
+          //company_url: "https://www.linkedin.com/company/freecopy/about/",
+          logo_path: "MSL.png",
+          duration: "Jan 2019 - Feb 2019",
+          location: "Taipei, Taiwan",
+          description:
+            "Calculated the number of Google Map guide stars and analyzed the market trends. Conducted tourism surveys, and promoted the tourist industry by social media with the Tourism Bureau.",
+          color: "#fc1f20",
+        },
+        {
+          title: "Administrative Assistant",
+          company: "Montessori Interactive",
+          //company_url: "https://www.linkedin.com/company/freecopy/about/",
+          logo_path: "MI.jpeg",
+          duration: "Jan 2018 - Feb 2018",
+          location: "Taipei, Taiwan",
+          description:
+            "Managed an E-commerce website and promoted products by Google Ads. Organized customer data in a database and analyzed their purchase behavior in the market.",
+          color: "#fc1f20",
+        },
+      ],
+    },
+    {
+      title: "Leadership/Extracurricular",
+      experiences: [
+        {
+          title: "NTU Student Ambassadors",
+          company: "Member",
+          //company_url: "https://www.tiktok.com/en/",
+          logo_path: "amb.jpeg",
+          duration: "Sep 2020 - Jun 2023",
+          //location: "San Francisco, USA",
+          description:
+            "Practiced diplomatic etiquette in international conferences. Received foreign guests, performed campus guide and became emcee in formal forums.",
+          color: "#000000",
+        },
+        {
+          title: "PTY Social Service Team, NTU",
+          company: "Member",
+          //company_url: "https://www.delhivery.com/",
+          logo_path: "pty.png",
+          duration: "Sep 2020 - Sep 2021",
+          //location: "Gurgaon, Haryana",
+          description:
+            "Provided teaching services to rural primary schools, assisting and caring for children who lack educational resources.",
+          color: "#ee3c26",
+        },
+        {
+          title: "International Companions for Learning Team, NTU",
+          company: "Member",
+          //company_url: "https://www.delhivery.com/",
+          logo_path: "icl.png",
+          duration: "Sep 2020 - Sep 2021",
+          //location: "Gurgaon, Haryana",
+          description:
+            "Promoted cultural awareness values and service learning. Taught English in remote areas together with my international companions.",
+          color: "#ee3c26",
+        },
+        {
+          title: "Japanese Language and Literature Student Association, NTU",
+          company: "President",
+          //company_url:
+          //"https://opencorporates.com/companies/us_dc/EXTUID_4170286",
+          logo_path: "ntujp.jpeg",
+          duration: "Sep 2019 - Sep 2020",
+          //location: "Work From Home",
+          description:
+            "Handled school documents and communicated between professors as well as classmates. Held career speeches as well as sociative performances, and organized the association.",
+          color: "#0071C5",
+        },
+        {
+          title: "General Affairs Department of Social Science Seed Club, NTU",
+          company: "Vice Leader of Financial Section",
+          //company_url:
+          //"https://opencorporates.com/companies/us_dc/EXTUID_4170286",
+          logo_path: "seed.png",
+          duration: "Sep 2018 - Sep 2019",
+          //location: "Work From Home",
+          description:
+            "Formulated budgets for camp expenses and contacted manufacturers for subsidies.",
+          color: "#0071C5",
+        },
+      ],
+    },
+    {
+      title: "Awards",
+      experiences: [
+        {
+          title: "Best Poster Award Runners-Up",
+          company: "iConference 2022 (👉click here)",
+          company_url: "https://www.ischools.org/past-conferences/2022",
+          logo_path: "iConf.jpeg",
+          duration: "Mar 2022",
+          //location: "Hyderabad, Telangana",
+          //description:
+          //   "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
+          color: "#4285F4",
+        },
+        {
+          title: "NTU Altruism Award",
+          company: "National Taiwan University (NTU)",
+          //company_url: "https://www.microsoft.com/",
+          logo_path: "ntu.png",
+          duration: "Sep 2021",
+          //location: "Hyderabad, Telangana",
+          // description:
+          //   "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
+          color: "#D83B01",
+        },
+      ],
+    },
+  ],
+};
 // Education Page
 const competitiveSites = {
   competitiveSites: [
@@ -334,76 +495,76 @@ const competitiveSites = {
       },
       profileLink: "https://leetcode.com/layman_brother/",
     },
-    {
-      siteName: "HackerRank",
-      iconifyClassname: "simple-icons:hackerrank",
-      style: {
-        color: "#2EC866",
-      },
-      profileLink: "https://www.hackerrank.com/layman_brother",
-    },
-    {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
-      style: {
-        color: "#5B4638",
-      },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
-    },
-    {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
-      style: {
-        color: "#1F8ACB",
-      },
-      profileLink: "http://codeforces.com/profile/layman_brother",
-    },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
-      style: {
-        color: "#323754",
-      },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
-    },
-    {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
-      style: {
-        color: "#20BEFF",
-      },
-      profileLink: "https://www.kaggle.com/laymanbrother",
-    },
+    // {
+    //   siteName: "HackerRank",
+    //   iconifyClassname: "simple-icons:hackerrank",
+    //   style: {
+    //     color: "#2EC866",
+    //   },
+    //   profileLink: "https://www.hackerrank.com/layman_brother",
+    // },
+    // {
+    //   siteName: "Codechef",
+    //   iconifyClassname: "simple-icons:codechef",
+    //   style: {
+    //     color: "#5B4638",
+    //   },
+    //   profileLink: "https://www.codechef.com/users/ashutosh_1919",
+    // },
+    // {
+    //   siteName: "Codeforces",
+    //   iconifyClassname: "simple-icons:codeforces",
+    //   style: {
+    //     color: "#1F8ACB",
+    //   },
+    //   profileLink: "http://codeforces.com/profile/layman_brother",
+    // },
+    // {
+    //   siteName: "Hackerearth",
+    //   iconifyClassname: "simple-icons:hackerearth",
+    //   style: {
+    //     color: "#323754",
+    //   },
+    //   profileLink: "https://www.hackerearth.com/@ashutosh391",
+    // },
+    // {
+    //   siteName: "Kaggle",
+    //   iconifyClassname: "simple-icons:kaggle",
+    //   style: {
+    //     color: "#20BEFF",
+    //   },
+    //   profileLink: "https://www.kaggle.com/laymanbrother",
+    // },
   ],
 };
 
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2016 - 2020",
+      title:
+        "How do students from different disciplines perceive the concept of “data”?: A visual elicitation method",
+      subtitle: "Tsai, Tien-I; Chang, Yun-Chi; Lin, Chieh-Ru (2022)",
+      logo_path: "iConf.jpeg",
+      //alt_name: "IIITDM Kurnool",
+      duration: "Publication",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "🟤 Conducted synchronous online visual-elicitation interviews by transforming Hartel’s iSquare draw-and-write technique into the draw-and-tell dSquare approach",
+        "🟤 Tested questionnaires, and analyzed 37 undergraduate students’ recognition of data in different disciplines.",
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "https://www.ideals.illinois.edu/items/123111",
     },
     {
-      title: "Indiana University Bloomington",
-      subtitle: "M.S. in Computer Science",
-      logo_path: "iu_logo.png",
-      alt_name: "Indiana University Bloomington",
-      duration: "2021 - 2023",
+      title: "Optimize NTU Press Website",
+      subtitle: "3 UX Designers Team (Sep 2021 - Jan 2022)",
+      logo_path: "ntupress.png",
+      //alt_name: "Indiana University Bloomington",
+      duration: "Project",
       descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+        "🟤 Redesign a platform that enables users to relish in their memories, preserving and commemorating the beautiful moments associated with NTU.",
+        "🟤 Create an immersive website that provides users with an interactive and visually appealing experience, while still prioritizing usability and ease of navigation.",
       ],
-      website_link: "https://www.indiana.edu/",
+      website_link:
+        "https://www.figma.com/proto/xAldf4Ekl6izoc5QYWPGsU/%E5%8F%B0%E5%A4%A7%E5%87%BA%E7%89%88%E4%B8%AD%E5%BF%83?type=design&node-id=306-115&t=WJJC2tj4jgkdgnY8-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=306%3A115&show-proto-sidebar=1&mode=design",
     },
   ],
 };
@@ -517,156 +678,6 @@ const certifications = {
         "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
       alt_name: "GCP",
       color_code: "#4285F499",
-    },
-  ],
-};
-
-// Experience Page
-const experience = {
-  title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
-  description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
-  header_image_path: "experience.svg",
-  sections: [
-    {
-      title: "Work",
-      work: true,
-      experiences: [
-        {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
-          duration: "June 2020 - Aug 2021",
-          location: "Hyderabad, Telangana",
-          description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
-          color: "#0879bf",
-        },
-        {
-          title: "Android and ML Developer",
-          company: "Muffito Incorporation",
-          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-          logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
-          location: "Pune, Maharashtra",
-          description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
-          color: "#9b1578",
-        },
-        {
-          title: "Android Developer",
-          company: "FreeCopy Pvt. Ltd.",
-          company_url: "https://www.linkedin.com/company/freecopy/about/",
-          logo_path: "freecopy_logo.png",
-          duration: "Nov 2017 - Dec 2017",
-          location: "Ahmedabad, Gujarat",
-          description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
-          color: "#fc1f20",
-        },
-      ],
-    },
-    {
-      title: "Internships",
-      experiences: [
-        {
-          title: "Machine Learning Intern",
-          company: "TikTok Inc.",
-          company_url: "https://www.tiktok.com/en/",
-          logo_path: "tiktok_logo.png",
-          duration: "May 2022 - Aug 2022",
-          location: "San Francisco, USA",
-          description:
-            "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
-          color: "#000000",
-        },
-        {
-          title: "Data Science Research Intern",
-          company: "Delhivery Pvt. Ltd.",
-          company_url: "https://www.delhivery.com/",
-          logo_path: "delhivery_logo.png",
-          duration: "May 2019 - Sept 2019",
-          location: "Gurgaon, Haryana",
-          description:
-            "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
-          color: "#ee3c26",
-        },
-        {
-          title: "Data Science Intern",
-          company: "Intel Indexer LLC",
-          company_url:
-            "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
-          logo_path: "intel_logo.jpg",
-          duration: "Nov 2018 - Dec 2018",
-          location: "Work From Home",
-          description:
-            "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
-          color: "#0071C5",
-        },
-      ],
-    },
-    {
-      title: "Volunteerships",
-      experiences: [
-        {
-          title: "Google Explore ML Facilitator",
-          company: "Google",
-          company_url: "https://about.google/",
-          logo_path: "google_logo.png",
-          duration: "June 2019 - April 2020",
-          location: "Hyderabad, Telangana",
-          description:
-            "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
-          color: "#4285F4",
-        },
-        {
-          title: "Microsoft Student Partner",
-          company: "Microsoft",
-          company_url: "https://www.microsoft.com/",
-          logo_path: "microsoft_logo.png",
-          duration: "Aug 2019 - May 2020",
-          location: "Hyderabad, Telangana",
-          description:
-            "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
-          color: "#D83B01",
-        },
-        {
-          title: "Mozilla Campus Captain",
-          company: "Mozilla",
-          company_url: "https://www.mozilla.org/",
-          logo_path: "mozilla_logo.png",
-          duration: "Oct 2019 - May 2020",
-          location: "Kurnool, Andhra Pradesh",
-          description:
-            "My responsibility for this program was to create opensource environment in college and in the city. We have organised multiple hackathons on the problems collected by ordinary people from Kurnool city. We have build opensource community of our own college. The community is available at dsc_iiitdmk on github.",
-          color: "#000000",
-        },
-        {
-          title: "Developer Students Club Member",
-          company: "DSC IIITDM Kurnool",
-          company_url:
-            "https://www.linkedin.com/company/developer-students-club-iiitdm-kurnool",
-          logo_path: "dsc_logo.png",
-          duration: "Jan 2018 - May 2020",
-          location: "Kurnool, Andhra Pradesh",
-          description:
-            "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
-          color: "#0C9D58",
-        },
-        {
-          title: "Developer Program Member",
-          company: "Github",
-          company_url: "https://github.com/",
-          logo_path: "github_logo.png",
-          duration: "July 2019 - PRESENT",
-          location: "Work From Home",
-          description:
-            "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
-          color: "#181717",
-        },
-      ],
     },
   ],
 };

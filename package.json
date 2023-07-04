@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "masterPortfolio",
+  "name": "Portfolio",
   "homepage": ".",
   "version": "0.1.0",
   "scripts": {
@@ -20,11 +20,12 @@
     "fs": "0.0.1-security",
     "gh-pages": "^2.1.1",
     "graphql": "^14.5.8",
+    "microevent.ts": "^0.2.1",
     "node-fetch": "^2.6.0",
     "prettier-package-json": "^2.1.3",
     "radium": "^0.26.0",
     "react": "^16.10.2",
-    "react-bootstrap": "^1.0.0-beta.16",
+    "react-bootstrap": "^1.0.1",
     "react-chartjs-2": "^2.9.0",
     "react-dom": "^16.10.2",
     "react-helmet": "^6.1.0",
@@ -34,7 +35,9 @@
     "react-spring": "^8.0.27",
     "styled-components": "^5.1.1",
     "styletron-engine-atomic": "^1.4.6",
-    "styletron-react": "^5.2.7"
+    "styletron-react": "^5.2.7",
+    "upath": "^2.0.1",
+    "url": "^0.11.1"
   },
   "devDependencies": {
     "@iconify/icons-logos": "^1.0.9",
