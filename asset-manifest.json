@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.88360681.chunk.css",
+    "main.css": "./static/css/main.12c328f3.chunk.css",
     "main.js": "./static/js/main.b5be2497.chunk.js",
     "main.js.map": "./static/js/main.b5be2497.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.c602ebe1.js",
@@ -8,9 +8,9 @@
     "static/js/2.50724a28.chunk.js": "./static/js/2.50724a28.chunk.js",
     "static/js/2.50724a28.chunk.js.map": "./static/js/2.50724a28.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.586a5d286356a8a989e3663603ab7e6c.js": "./precache-manifest.586a5d286356a8a989e3663603ab7e6c.js",
+    "precache-manifest.f09736eabd36e8b0b18fb8c43e3d401c.js": "./precache-manifest.f09736eabd36e8b0b18fb8c43e3d401c.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.88360681.chunk.css.map": "./static/css/main.88360681.chunk.css.map",
+    "static/css/main.12c328f3.chunk.css.map": "./static/css/main.12c328f3.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/National_Taiwan_University.png": "./static/media/National_Taiwan_University.e6d14606.png",
     "static/media/ROC_Ministry_of_Foreign_Affairs.png": "./static/media/ROC_Ministry_of_Foreign_Affairs.22cf1e8a.png",
@@ -61,7 +61,7 @@
   "entrypoints": [
     "static/js/runtime-main.c602ebe1.js",
     "static/js/2.50724a28.chunk.js",
-    "static/css/main.88360681.chunk.css",
+    "static/css/main.12c328f3.chunk.css",
     "static/js/main.b5be2497.chunk.js"
   ]
 }
