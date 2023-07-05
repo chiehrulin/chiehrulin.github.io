@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7258e5f86e6f9c17ee905e07ed7db00",
+    "revision": "0097646fd8b409c5c6c35603e12e5032",
     "url": "./index.html"
   },
   {
-    "revision": "f9965ee23157eca72897",
-    "url": "./static/css/main.4cfa83ab.chunk.css"
+    "revision": "1a93031863ab13c88e11",
+    "url": "./static/css/main.2998e3bf.chunk.css"
   },
   {
-    "revision": "185f59886e1b439d90b7",
-    "url": "./static/js/2.50724a28.chunk.js"
+    "revision": "980e33f9b641fcb59d2f",
+    "url": "./static/js/2.e0161797.chunk.js"
   },
   {
-    "revision": "f9965ee23157eca72897",
-    "url": "./static/js/main.b5be2497.chunk.js"
+    "revision": "1a93031863ab13c88e11",
+    "url": "./static/js/main.ca339764.chunk.js"
   },
   {
-    "revision": "40ad2239ebd051263eb7",
-    "url": "./static/js/runtime-main.c602ebe1.js"
+    "revision": "1a27038c5115d044f6f9",
+    "url": "./static/js/runtime-main.fff6ee50.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -50,14 +50,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "./static/media/Montserrat-Regular.ee653992.ttf"
-  },
-  {
-    "revision": "e6d14606fae8b0e1b26bd758f5ee62ca",
-    "url": "./static/media/National_Taiwan_University.e6d14606.png"
-  },
-  {
-    "revision": "22cf1e8acda9c3617e34d5babefac60c",
-    "url": "./static/media/ROC_Ministry_of_Foreign_Affairs.22cf1e8a.png"
   },
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
@@ -196,10 +188,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/googleAssistant.a6addc3f.svg"
   },
   {
-    "revision": "f8c4c6ea7bbaaf1044679d112bee7b26",
-    "url": "./static/media/iConf.f8c4c6ea.jpeg"
-  },
-  {
     "revision": "d3fccbe1db76b96f4f320d9c0f7da30c",
     "url": "./static/media/ibm_logo.d3fccbe1.png"
   },
@@ -228,20 +216,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/manOnTable.83ac24fb.svg"
   },
   {
-    "revision": "a58b3141fccea4d0f65538f86162aa0c",
-    "url": "./static/media/me.a58b3141.png"
-  },
-  {
     "revision": "069938a84edd6ebf383c318e9feb5d4c",
     "url": "./static/media/muffito_logo.069938a8.png"
   },
   {
     "revision": "95a12a2b8c3149cce2175679755c4b4d",
     "url": "./static/media/nptel_logo.95a12a2b.png"
-  },
-  {
-    "revision": "e82dfd9bd2755bba27cfaa49e998e293",
-    "url": "./static/media/ntu.e82dfd9b.png"
   },
   {
     "revision": "414dfbd98516b39255a3e22ed90b3f7d",
@@ -252,20 +232,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/programmer.5faf790b.svg"
   },
   {
-    "revision": "554867633c17d7ae7b6d8d1d543424ec",
-    "url": "./static/media/project1.55486763.pdf"
-  },
-  {
     "revision": "b8ba948796d7ab532673c5ed2f315e74",
     "url": "./static/media/projects_image.b8ba9487.svg"
   },
   {
     "revision": "71408db71465afd742233e4a96f06526",
     "url": "./static/media/pwa.71408db7.png"
-  },
-  {
-    "revision": "0aa73d7c10eceac0e83f54f2f9443957",
-    "url": "./static/media/self.0aa73d7c.jpg"
   },
   {
     "revision": "2c497738be3831492aeb6bdc43f19154",
