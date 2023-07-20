@@ -322,7 +322,7 @@ const experience = {
           duration: "Mar 2022 - Jun 2022",
           location: "Taipei, Taiwan",
           description:
-            "Designed a prototype and prepared A/B test to apply a new interface in the information system. Managed, cataloged, archived, analyzed, and transferred 1,000,000+ files to National Archives Administration in two months.",
+            "Designed a prototype and prepared A/B test to apply a new interface in the information system.\tManaged, cataloged, archived, analyzed, and transferred 1,000,000+ files to National Archives Administration in two months.",
           color: "#0879bf",
         },
         {
@@ -548,7 +548,7 @@ const degrees = {
       //alt_name: "IIITDM Kurnool",
       duration: "Publication",
       descriptions: [
-        "🟤 Conducted synchronous online visual-elicitation interviews by transforming Hartel’s iSquare draw-and-write technique into the draw-and-tell dSquare approach",
+        "🟤 Conducted synchronous online visual-elicitation interviews by transforming Hartel’s iSquare draw-and-write technique into the draw-and-tell dSquare approach.",
         "🟤 Tested questionnaires, and analyzed 37 undergraduate students’ recognition of data in different disciplines.",
       ],
       website_link: "https://www.ideals.illinois.edu/items/123111",

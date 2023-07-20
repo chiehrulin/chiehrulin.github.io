@@ -1,22 +1,22 @@
 import React, { Component } from "react";
 import "./Skills.css";
-import SoftwareSkill from "../../components/softwareSkills/SoftwareSkill";
+//import SoftwareSkill from "../../components/softwareSkills/SoftwareSkill";
 import { skills } from "../../portfolio";
 import { Fade } from "react-reveal";
-import DataScienceImg from "./DataScienceImg";
-import FullStackImg from "./FullStackImg";
-import CloudInfraImg from "./CloudInfraImg";
-import DesignImg from "./DesignImg";
+//import DataScienceImg from "./DataScienceImg";
+//import FullStackImg from "./FullStackImg";
+//import CloudInfraImg from "./CloudInfraImg";
+//import DesignImg from "./DesignImg";
 
-function GetSkillSvg(props) {
-  // if (props.fileName === "DataScienceImg")
-  //   return <DataScienceImg theme={props.theme} />;
-  // else if (props.fileName === "FullStackImg")
-  //   return <FullStackImg theme={props.theme} />;
-  // else if (props.fileName === "CloudInfraImg")
-  //   return <CloudInfraImg theme={props.theme} />;
-  return <DesignImg theme={props.theme} />;
-}
+//function GetSkillSvg(props) {
+// if (props.fileName === "DataScienceImg")
+//   return <DataScienceImg theme={props.theme} />;
+// else if (props.fileName === "FullStackImg")
+//   return <FullStackImg theme={props.theme} />;
+// else if (props.fileName === "CloudInfraImg")
+//   return <CloudInfraImg theme={props.theme} />;
+//   return <DesignImg theme={props.theme} />;
+// }
 
 class SkillSection extends Component {
   render() {

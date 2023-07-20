@@ -5,8 +5,8 @@ import TopButton from "../../components/topButton/TopButton";
 import ExperienceAccordion from "../../containers/experienceAccordion/ExperienceAccordion.js";
 import "./Experience.css";
 import { experience } from "../../portfolio.js";
-import { Fade } from "react-reveal";
-import ExperienceImg from "./ExperienceImg";
+//import { Fade } from "react-reveal";
+//import ExperienceImg from "./ExperienceImg";
 
 // const experience = {
 // 	title: "Experience",
@@ -155,8 +155,8 @@ class Experience extends Component {
           <div className="experience-heading-div">
             <div className="experience-heading-img-div">
               <img
-              // src={require("../../assests/images/me.png")}
-              // alt=""
+                // src={require("../../assests/images/me.png")}
+                alt=""
               />
               {/* <ExperienceImg theme={theme} /> */}
             </div>
