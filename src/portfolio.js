@@ -24,22 +24,13 @@ const greeting = {
   subTitle:
     "Currently pursuing a UX master degree at the University of Texas Austin, previously graduated from National Taiwan University (NTU) with bachelor degree in Japanese Language and Literature as well as Library and Information Science.",
   resumeLink:
-    "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
+    "https://drive.google.com/file/d/1m7a297NDqrH8vyF2kHZGUMclq5y23jBI/view?usp=sharing",
   portfolio_repository:
     "https://drive.google.com/file/d/1TOkEe7UUC8BMpfKxrQzDuihJ20DbEAzY/view?usp=drive_link",
   githubProfile: "https://github.com/chiehrulin",
 };
 
 const socialMediaLinks = [
-  /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
-  // facebook: "https://www.facebook.com/laymanbrother.19/",
-  // twitter: "https://twitter.com/ashutosh_1919",
-  // instagram: "https://www.instagram.com/layman_brother/"
-
   {
     name: "Github",
     link: "https://github.com/chiehrulin",
@@ -59,7 +50,6 @@ const socialMediaLinks = [
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
 ];
-
 const skills = {
   data: [
     {
@@ -299,6 +289,246 @@ const skills = {
     },
   ],
 };
+// //Work1 Page
+const work1 = {
+  data: [
+    {
+      title: "Hello! I am Jenny!",
+      fileName: "",
+      work1: [
+        " I developed a passion for information studies during my third year of university. At NTU, I conducted research on data literacy and data visualization, focusing on information behavior and UI/UX design.",
+        " As an exchange student at Radboud University in the Netherlands (2022-2023), I delved into HCI and Communication studies, exploring AI and theories about information studies to help people get closer to the fast-changing techniques.",
+        " During an internship at the Ministry of Foreign Affairs (R.O.C.), Department of Archives, Information Management, and Telecommunications, I implemented a new interface in their information system, improving document cataloging, archiving, and access.",
+        " These experiences have strengthened my belief in the inseparable relationship between humans and information, leading me to contribute my skills and expertise to new projects and teams in the IT industry in the future.",
+      ],
+      softwareWork1: [
+        {
+          work1Name: "",
+          fontAwesomeClassname: "",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          work1Name: "Keras",
+          fontAwesomeClassname: "simple-icons:keras",
+          style: {
+            backgroundColor: "white",
+            color: "#D00000",
+          },
+        },
+        {
+          work1Name: "PyTorch",
+          fontAwesomeClassname: "logos-pytorch",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          work1Name: "Python",
+          fontAwesomeClassname: "ion-logo-python",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          work1Name: "Deeplearning",
+          imageSrc: "deeplearning_ai_logo.png",
+        },
+      ],
+    },
+    {
+      title: "Full Stack Development",
+      fileName: "FullStackImg",
+      work1: [
+        "⚡ Building responsive website front end using React-Redux",
+        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
+        "⚡ Creating application backend in Node, Express & Flask",
+      ],
+      softwareWork1: [
+        {
+          skillName: "HTML5",
+          fontAwesomeClassname: "simple-icons:html5",
+          style: {
+            color: "#E34F26",
+          },
+        },
+        //   {
+        //     skillName: "CSS3",
+        //     fontAwesomeClassname: "fa-css3",
+        //     style: {
+        //       color: "#1572B6",
+        //     },
+        //   },
+        //   {
+        //     skillName: "Sass",
+        //     fontAwesomeClassname: "simple-icons:sass",
+        //     style: {
+        //       color: "#CC6699",
+        //     },
+        //   },
+        //   {
+        //     skillName: "JavaScript",
+        //     fontAwesomeClassname: "simple-icons:javascript",
+        //     style: {
+        //       backgroundColor: "#000000",
+        //       color: "#F7DF1E",
+        //     },
+        //   },
+        //   {
+        //     skillName: "ReactJS",
+        //     fontAwesomeClassname: "simple-icons:react",
+        //     style: {
+        //       color: "#61DAFB",
+        //     },
+        //   },
+        //   {
+        //     skillName: "NodeJS",
+        //     fontAwesomeClassname: "simple-icons:node-dot-js",
+        //     style: {
+        //       color: "#339933",
+        //     },
+        //   },
+        //   {
+        //     skillName: "NPM",
+        //     fontAwesomeClassname: "simple-icons:npm",
+        //     style: {
+        //       color: "#CB3837",
+        //     },
+        //   },
+        //   {
+        //     skillName: "Yarn",
+        //     fontAwesomeClassname: "simple-icons:yarn",
+        //     style: {
+        //       color: "#2C8EBB",
+        //     },
+        //   },
+        //   {
+        //     skillName: "Gatsby",
+        //     fontAwesomeClassname: "simple-icons:gatsby",
+        //     style: {
+        //       color: "#663399",
+        //     },
+        //   },
+        //   {
+        //     skillName: "Flutter",
+        //     fontAwesomeClassname: "simple-icons:flutter",
+        //     style: {
+        //       color: "#02569B",
+        //     },
+        //   },
+        // ],
+        // },
+        // {
+        //   title: "Cloud Infra-Architecture",
+        //   fileName: "CloudInfraImg",
+        //   work1: [
+        //     "⚡ Experience working on multiple cloud platforms",
+        //     "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
+        //     "⚡ Deploying deep learning models on cloud to use on mobile devices",
+        //     "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        //   ],
+        //   softwareWork1: [
+        //     {
+        //       skillName: "GCP",
+        //       fontAwesomeClassname: "simple-icons:googlecloud",
+        //       style: {
+        //         color: "#4285F4",
+        //       },
+        //     },
+        //     {
+        //       skillName: "AWS",
+        //       fontAwesomeClassname: "simple-icons:amazonaws",
+        //       style: {
+        //         color: "#FF9900",
+        //       },
+        //     },
+        //     {
+        //       skillName: "Azure",
+        //       fontAwesomeClassname: "simple-icons:microsoftazure",
+        //       style: {
+        //         color: "#0089D6",
+        //       },
+        //     },
+        //     {
+        //       skillName: "Firebase",
+        //       fontAwesomeClassname: "simple-icons:firebase",
+        //       style: {
+        //         color: "#FFCA28",
+        //       },
+        //     },
+        //     {
+        //       skillName: "PostgreSQL",
+        //       fontAwesomeClassname: "simple-icons:postgresql",
+        //       style: {
+        //         color: "#336791",
+        //       },
+        //     },
+        //     {
+        //       skillName: "MongoDB",
+        //       fontAwesomeClassname: "simple-icons:mongodb",
+        //       style: {
+        //         color: "#47A248",
+        //       },
+        //     },
+        //     {
+        //       skillName: "Docker",
+        //       fontAwesomeClassname: "simple-icons:docker",
+        //       style: {
+        //         color: "#1488C6",
+        //       },
+        //     },
+        //     {
+        //       skillName: "Kubernetes",
+        //       fontAwesomeClassname: "simple-icons:kubernetes",
+        //       style: {
+        //         color: "#326CE5",
+        //       },
+        //     },
+        //   ],
+        // },
+        // {
+        //   title: "UI/UX Design",
+        //   fileName: "DesignImg",
+        //   skills: [
+        //     "⚡ Designing highly attractive user interface for mobile and web applications",
+        //     "⚡ Customizing logo designs and building logos from scratch",
+        //     "⚡ Creating the flow of application functionalities to optimize user experience",
+        //   ],
+        //   softwareSkills: [
+        //     {
+        //       skillName: "Adobe XD",
+        //       fontAwesomeClassname: "simple-icons:adobexd",
+        //       style: {
+        //         color: "#FF2BC2",
+        //       },
+        //     },
+        //     {
+        //       skillName: "Figma",
+        //       fontAwesomeClassname: "simple-icons:figma",
+        //       style: {
+        //         color: "#F24E1E",
+        //       },
+        //     },
+        //     {
+        //       skillName: "Adobe Illustrator",
+        //       fontAwesomeClassname: "simple-icons:adobeillustrator",
+        //       style: {
+        //         color: "#FF7C00",
+        //       },
+        //     },
+        //     {
+        //       skillName: "Inkscape",
+        //       fontAwesomeClassname: "simple-icons:inkscape",
+        //       style: {
+        //         color: "#000000",
+        //       },
+        //     },
+      ],
+    },
+  ],
+};
 
 // Experience Page
 const experience = {
@@ -310,7 +540,7 @@ const experience = {
 
   sections: [
     {
-      title: "Intern",
+      title: "Internship",
       work: true,
       experiences: [
         {
@@ -394,7 +624,7 @@ const experience = {
       ],
     },
     {
-      title: "Leadership/Extracurricular",
+      title: "Leadership/Extracurriculars",
       experiences: [
         {
           title: "NTU Student Ambassadors",
@@ -538,8 +768,67 @@ const competitiveSites = {
   ],
 };
 
-const degrees = {
-  degrees: [
+const degreeout = {
+  degreeout: [
+    //
+    // {
+    //   title:
+    //     "How do students from different disciplines perceive the concept of “data”?: A visual elicitation method",
+    //   subtitle: "Tsai, Tien-I; Chang, Yun-Chi; Lin, Chieh-Ru (2022)",
+    //   logo_path: "iConf.jpeg",
+    //   //alt_name: "IIITDM Kurnool",
+    //   duration: "Publication",
+    //   descriptions: [
+    //     "🟤 Conducted synchronous online visual-elicitation interviews by transforming Hartel’s iSquare draw-and-write technique into the draw-and-tell dSquare approach.",
+    //     "🟤 Tested questionnaires, and analyzed 37 undergraduate students’ recognition of data in different disciplines.",
+    //   ],
+    //   website_link: "/test",
+    // },
+    // {
+    //   title:
+    //     "How do students from different disciplines perceive the concept of “data”?: A visual elicitation method",
+    //   subtitle: "Tsai, Tien-I; Chang, Yun-Chi; Lin, Chieh-Ru (2022)",
+    //   logo_path: "iConf.jpeg",
+    //   //alt_name: "IIITDM Kurnool",
+    //   duration: "Publication",
+    //   descriptions: [
+    //     "🟤 Conducted synchronous online visual-elicitation interviews by transforming Hartel’s iSquare draw-and-write technique into the draw-and-tell dSquare approach.",
+    //     "🟤 Tested questionnaires, and analyzed 37 undergraduate students’ recognition of data in different disciplines.",
+    //   ],
+    //   website_link: "/project1",
+    // },
+    {
+      title: "Optimize NTU Press Website",
+      subtitle: "3 UX Designers Team (Sep 2021 - Jan 2022)",
+      logo_path: "ntupress.png",
+      //alt_name: "Indiana University Bloomington",
+      duration: "Project",
+      descriptions: [
+        "▪️ Redesign a platform that enables users to relish in their memories, preserving and commemorating the beautiful moments associated with NTU.",
+        "▪️ Create an immersive website that provides users with an interactive and visually appealing experience, while still prioritizing usability and ease of navigation.",
+      ],
+      website_link:
+        "https://www.figma.com/proto/xAldf4Ekl6izoc5QYWPGsU/%E5%8F%B0%E5%A4%A7%E5%87%BA%E7%89%88%E4%B8%AD%E5%BF%83?type=design&node-id=306-115&t=WJJC2tj4jgkdgnY8-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=306%3A115&show-proto-sidebar=1&mode=design",
+    },
+  ],
+};
+
+const degreein = {
+  degreein: [
+    //
+    // {
+    //   title:
+    //     "How do students from different disciplines perceive the concept of “data”?: A visual elicitation method",
+    //   subtitle: "Tsai, Tien-I; Chang, Yun-Chi; Lin, Chieh-Ru (2022)",
+    //   logo_path: "iConf.jpeg",
+    //   //alt_name: "IIITDM Kurnool",
+    //   duration: "Publication",
+    //   descriptions: [
+    //     "🟤 Conducted synchronous online visual-elicitation interviews by transforming Hartel’s iSquare draw-and-write technique into the draw-and-tell dSquare approach.",
+    //     "🟤 Tested questionnaires, and analyzed 37 undergraduate students’ recognition of data in different disciplines.",
+    //   ],
+    //   website_link: "/test",
+    // },
     {
       title:
         "How do students from different disciplines perceive the concept of “data”?: A visual elicitation method",
@@ -548,24 +837,24 @@ const degrees = {
       //alt_name: "IIITDM Kurnool",
       duration: "Publication",
       descriptions: [
-        "🟤 Conducted synchronous online visual-elicitation interviews by transforming Hartel’s iSquare draw-and-write technique into the draw-and-tell dSquare approach.",
-        "🟤 Tested questionnaires, and analyzed 37 undergraduate students’ recognition of data in different disciplines.",
+        "▪️ Conducted synchronous online visual-elicitation interviews by transforming Hartel’s iSquare draw-and-write technique into the draw-and-tell dSquare approach.",
+        "▪️ Tested questionnaires, and analyzed 37 undergraduate students’ recognition of data in different disciplines.",
       ],
-      website_link: "https://www.ideals.illinois.edu/items/123111",
+      website_link: "/project1",
     },
-    {
-      title: "Optimize NTU Press Website",
-      subtitle: "3 UX Designers Team (Sep 2021 - Jan 2022)",
-      logo_path: "ntupress.png",
-      //alt_name: "Indiana University Bloomington",
-      duration: "Project",
-      descriptions: [
-        "🟤 Redesign a platform that enables users to relish in their memories, preserving and commemorating the beautiful moments associated with NTU.",
-        "🟤 Create an immersive website that provides users with an interactive and visually appealing experience, while still prioritizing usability and ease of navigation.",
-      ],
-      website_link:
-        "https://www.figma.com/proto/xAldf4Ekl6izoc5QYWPGsU/%E5%8F%B0%E5%A4%A7%E5%87%BA%E7%89%88%E4%B8%AD%E5%BF%83?type=design&node-id=306-115&t=WJJC2tj4jgkdgnY8-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=306%3A115&show-proto-sidebar=1&mode=design",
-    },
+    // {
+    //   title: "Optimize NTU Press Website",
+    //   subtitle: "3 UX Designers Team (Sep 2021 - Jan 2022)",
+    //   logo_path: "ntupress.png",
+    //   //alt_name: "Indiana University Bloomington",
+    //   duration: "Project",
+    //   descriptions: [
+    //     "🟤 Redesign a platform that enables users to relish in their memories, preserving and commemorating the beautiful moments associated with NTU.",
+    //     "🟤 Create an immersive website that provides users with an interactive and visually appealing experience, while still prioritizing usability and ease of navigation.",
+    //   ],
+    //   website_link:
+    //     "https://www.figma.com/proto/xAldf4Ekl6izoc5QYWPGsU/%E5%8F%B0%E5%A4%A7%E5%87%BA%E7%89%88%E4%B8%AD%E5%BF%83?type=design&node-id=306-115&t=WJJC2tj4jgkdgnY8-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=306%3A115&show-proto-sidebar=1&mode=design",
+    // },
   ],
 };
 
@@ -781,8 +1070,10 @@ export {
   greeting,
   socialMediaLinks,
   skills,
+  work1,
   competitiveSites,
-  degrees,
+  degreein,
+  degreeout,
   certifications,
   experience,
   projectsHeader,

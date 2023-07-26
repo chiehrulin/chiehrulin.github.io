@@ -1,9 +1,9 @@
 import React, { Component } from "react";
-import "./DegreeCard.css";
+import "./DegreeCard2.css";
 import { Fade, Flip } from "react-reveal";
 import { NavLink, Link } from "react-router-dom";
 
-class DegreeCard extends Component {
+class DegreeCard2 extends Component {
   render() {
     const degree = this.props.degree;
     const theme = this.props.theme;
@@ -56,16 +56,12 @@ class DegreeCard extends Component {
                 );
               })}
               {degree.website_link && (
-                // <a
-                //   href={degree.website_link}
-                //   target="_self"
-                //   rel="noopener noreferrer"
-                // >
-                <NavLink
-                  to={degree.website_link}
-                  tag={Link}
-                  className="project1"
+                <a
+                  href={degree.website_link}
+                  target="_self"
+                  rel="noopener noreferrer"
                 >
+                  {/* <NavLink to={degree.website_link} tag={Link} className="project1">  */}
                   <div
                     className="visit-btn"
                     style={{ backgroundColor: theme.headerColor }}
@@ -74,8 +70,8 @@ class DegreeCard extends Component {
                       View More
                     </p>
                   </div>
-                </NavLink>
-                // </a>
+                  {/* </NavLink> */}
+                </a>
               )}
             </div>
           </div>
@@ -85,4 +81,4 @@ class DegreeCard extends Component {
   }
 }
 
-export default DegreeCard;
+export default DegreeCard2;

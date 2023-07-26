@@ -154,10 +154,7 @@ class Experience extends Component {
           {/* <Fade bottom duration={2000} distance="40px"> */}
           <div className="experience-heading-div">
             <div className="experience-heading-img-div">
-              <img
-                // src={require("../../assests/images/me.png")}
-                alt=""
-              />
+              <img src={require("../../assests/images/dot.png")} alt="" />
               {/* <ExperienceImg theme={theme} /> */}
             </div>
             <div className="experience-heading-text-div">
@@ -166,13 +163,9 @@ class Experience extends Component {
                 style={{ color: theme.text }}
               >
                 {experience.title}
+                <font size="6">Internship, Extracurriculars & Awards</font>
               </h1>
-              <h3
-                className="experience-heading-sub-text"
-                style={{ color: theme.text }}
-              >
-                Internship, Extracurricular and Awards
-              </h3>
+
               <p
                 className="experience-header-detail-text subTitle"
                 style={{ color: theme.secondaryText }}

@@ -1,7 +1,10 @@
 import React, { Component } from "react";
 import "./Educations.css";
 import DegreeCard from "../../components/degreeCard/DegreeCard.js";
-import { degrees } from "../../portfolio";
+import DegreeCard2 from "../../components/degreeCard2/DegreeCard2.js";
+import { degreein } from "../../portfolio";
+import { degreeout } from "../../portfolio";
+
 import { Fade } from "react-reveal";
 
 class Educations extends Component {
@@ -17,8 +20,13 @@ class Educations extends Component {
           </Fade>
         </div>
         <div className="educations-body-div">
-          {degrees.degrees.map((degree) => {
-            return <DegreeCard degree={degree} theme={theme} />;
+          {degreein.degreein.map((degreein) => {
+            return <DegreeCard degree={degreein} theme={theme} />;
+          })}
+        </div>
+        <div className="educations-body-div">
+          {degreeout.degreeout.map((degreeout) => {
+            return <DegreeCard2 degree={degreeout} theme={theme} />;
           })}
         </div>
       </div>
