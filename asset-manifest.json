@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.40dca09d.chunk.css",
-    "main.js": "./static/js/main.272bcb85.chunk.js",
-    "main.js.map": "./static/js/main.272bcb85.chunk.js.map",
+    "main.css": "./static/css/main.eaca7174.chunk.css",
+    "main.js": "./static/js/main.84527372.chunk.js",
+    "main.js.map": "./static/js/main.84527372.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.c602ebe1.js",
     "runtime-main.js.map": "./static/js/runtime-main.c602ebe1.js.map",
-    "static/js/2.3a9c66bb.chunk.js": "./static/js/2.3a9c66bb.chunk.js",
-    "static/js/2.3a9c66bb.chunk.js.map": "./static/js/2.3a9c66bb.chunk.js.map",
+    "static/js/2.92d72efe.chunk.js": "./static/js/2.92d72efe.chunk.js",
+    "static/js/2.92d72efe.chunk.js.map": "./static/js/2.92d72efe.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.11527fa719afd7ac86f1bd4fe8db08eb.js": "./precache-manifest.11527fa719afd7ac86f1bd4fe8db08eb.js",
+    "precache-manifest.cb6590e382540500b95e7a1e8d7b1ab1.js": "./precache-manifest.cb6590e382540500b95e7a1e8d7b1ab1.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.40dca09d.chunk.css.map": "./static/css/main.40dca09d.chunk.css.map",
+    "static/css/main.eaca7174.chunk.css.map": "./static/css/main.eaca7174.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/National_Taiwan_University.png": "./static/media/National_Taiwan_University.e6d14606.png",
     "static/media/ROC_Ministry_of_Foreign_Affairs.png": "./static/media/ROC_Ministry_of_Foreign_Affairs.22cf1e8a.png",
@@ -18,6 +18,7 @@
     "static/media/animated_ashutosh.png": "./static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "./static/media/animated_logo.dcd6dee2.svg",
     "static/media/blogs_image.svg": "./static/media/blogs_image.058eca4c.svg",
+    "static/media/chain.png": "./static/media/chain.0c0c8ed3.png",
     "static/media/cloud_infrastructure.svg": "./static/media/cloud_infrastructure.cacbc42b.svg",
     "static/media/codeInLogo.png": "./static/media/codeInLogo.fee92c18.png",
     "static/media/contactMail.png": "./static/media/contactMail.5f915405.png",
@@ -47,11 +48,12 @@
     "static/media/nptel_logo.png": "./static/media/nptel_logo.95a12a2b.png",
     "static/media/ntu.png": "./static/media/ntu.e82dfd9b.png",
     "static/media/portfolio.gif": "./static/media/portfolio.414dfbd9.gif",
+    "static/media/poster.png": "./static/media/poster.5af3b67c.png",
     "static/media/programmer.svg": "./static/media/programmer.5faf790b.svg",
     "static/media/project1.pdf": "./static/media/project1.55486763.pdf",
     "static/media/projects_image.svg": "./static/media/projects_image.b8ba9487.svg",
     "static/media/pwa.png": "./static/media/pwa.71408db7.png",
-    "static/media/self.jpg": "./static/media/self.0aa73d7c.jpg",
+    "static/media/self.jpg": "./static/media/self.440750b5.jpg",
     "static/media/stanford_logo.png": "./static/media/stanford_logo.2c497738.png",
     "static/media/talksCardBack.svg": "./static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "./static/media/talksCardBackAlt.3fa54242.svg",
@@ -60,8 +62,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c602ebe1.js",
-    "static/js/2.3a9c66bb.chunk.js",
-    "static/css/main.40dca09d.chunk.css",
-    "static/js/main.272bcb85.chunk.js"
+    "static/js/2.92d72efe.chunk.js",
+    "static/css/main.eaca7174.chunk.css",
+    "static/js/main.84527372.chunk.js"
   ]
 }
