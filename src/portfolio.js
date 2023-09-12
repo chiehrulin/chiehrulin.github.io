@@ -22,11 +22,11 @@ const greeting = {
   logo_name: "CRLin",
   nickname: "Jenny Lin",
   subTitle:
-    "Currently pursuing a UX master degree at the University of Texas Austin, previously graduated from National Taiwan University (NTU) with bachelor degree in Japanese Language and Literature as well as Library and Information Science.",
+    "Recently pursuing an MSIS degree at the University of Texas Austin. My passion lies in creating inclusive and user-friendly designs that ensure information accessibility for all.",
   resumeLink:
-    "https://drive.google.com/file/d/1m7a297NDqrH8vyF2kHZGUMclq5y23jBI/view?usp=sharing",
+    "https://drive.google.com/file/d/149rWdivx2eoeyo--pbVReVjXj9qnb_fr/view?usp=sharing",
   portfolio_repository:
-    "https://drive.google.com/file/d/1TOkEe7UUC8BMpfKxrQzDuihJ20DbEAzY/view?usp=drive_link",
+    "https://drive.google.com/file/d/149rWdivx2eoeyo--pbVReVjXj9qnb_fr/view?usp=sharing",
   githubProfile: "https://github.com/chiehrulin",
 };
 
@@ -56,10 +56,10 @@ const skills = {
       title: "Hello! I am Jenny!",
       fileName: "",
       skills: [
-        " I developed a passion for information studies during my third year of university. At NTU, I conducted research on data literacy and data visualization, focusing on information behavior and UI/UX design.",
-        " As an exchange student at Radboud University in the Netherlands (2022-2023), I delved into HCI and Communication studies, exploring AI and theories about information studies to help people get closer to the fast-changing techniques.",
-        " During an internship at the Ministry of Foreign Affairs (R.O.C.), Department of Archives, Information Management, and Telecommunications, I implemented a new interface in their information system, improving document cataloging, archiving, and access.",
-        " These experiences have strengthened my belief in the inseparable relationship between humans and information, leading me to contribute my skills and expertise to new projects and teams in the IT industry in the future.",
+        "Before entering to UT Austin, I earned a bachelor's degree from National Taiwan University (NTU) in Japanese Language and Literature and Library and Information Science. I also had the opportunity to study at Radboud University in the Netherlands in 2022-2023, focusing on HCI and Communication studies.",
+        "In my academic journey, I became passionate about information studies, especially in data literacy, data visualization, and information behavior. I also learned coding to create user-friendly software, improving my communication with cross-functional teams and collaborating effectively with developers.",
+        "During an internship at the Ministry of Foreign Affairs (R.O.C.), I implemented a new interface with my team in their information management system, improving document cataloging, archiving, and access.",
+        "These experiences have strengthened my belief in the inseparable relationship between humans and information, leading me to contribute my skills and expertise to new projects in the future.",
       ],
       softwareSkills: [
         {
