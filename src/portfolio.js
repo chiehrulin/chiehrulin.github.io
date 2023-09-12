@@ -22,7 +22,7 @@ const greeting = {
   logo_name: "CRLin",
   nickname: "Jenny Lin",
   subTitle:
-    "Recently pursuing an MSIS degree at the University of Texas Austin. My passion lies in creating inclusive and user-friendly designs that ensure information accessibility for all.",
+    "Recently pursuing an MSIS degree at the University of Texas Austin. My passion lies in creating inclusive UX designs that ensure information accessibility for all.",
   resumeLink:
     "https://drive.google.com/file/d/149rWdivx2eoeyo--pbVReVjXj9qnb_fr/view?usp=sharing",
   portfolio_repository:
