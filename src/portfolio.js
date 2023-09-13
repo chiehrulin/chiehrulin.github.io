@@ -540,11 +540,34 @@ const experience = {
 
   sections: [
     {
-      title: "Internship",
+      title: "Work Experience",
       work: true,
       experiences: [
         {
-          title: "Internship",
+          title: "Research Assistant",
+          company: "School of Information, The University of Texas at Austin",
+          // company_url: "https://legatohealthtech.com/",
+          logo_path: "ischool.png",
+          duration: "Sep 2023 - Present",
+          location: "Austin, Texas",
+          description:
+            "Conducting systematic literature review to evaluate health IT. Designing effective eHealth literacy interventions for older adults.",
+          color: "#0879bf",
+        },
+        {
+          title: "Administrative Services Associate",
+          company:
+            "Univeristy of Texas Libraries, The University of Texas at Austin",
+          // company_url: "https://legatohealthtech.com/",
+          logo_path: "library.png",
+          duration: "Aug 2023 - Present",
+          location: "Austin, Texas",
+          description:
+            "Organizing fiscal documents and files in preparation for retention and destruction.",
+          color: "#0879bf",
+        },
+        {
+          title: "UX Internship",
           company:
             "Department of Archives, Information Management and Telecommunications, Ministry of Foreign Affairs (R.O.C.)",
           // company_url: "https://legatohealthtech.com/",
@@ -556,7 +579,7 @@ const experience = {
           color: "#0879bf",
         },
         {
-          title: "Internship",
+          title: "Software Engineer Intern",
           company: "Champions Education Association",
           //company_url: "https://www.linkedin.com/company/muffito-inc/about/",
           logo_path: "de.png",
