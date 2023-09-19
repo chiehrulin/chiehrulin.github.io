@@ -790,68 +790,51 @@ const competitiveSites = {
     // },
   ],
 };
+// 要連到外部連結!
+// const degreeout = {
+//   degreeout: [
+//     {
+//       title: "Optimize NTU Press Website",
+//       subtitle: "3 UX Designers Team (Sep 2021 - Jan 2022)",
+//       logo_path: "ntupress.png",
+//       //alt_name: "Indiana University Bloomington",
+//       duration: "Project",
+//       descriptions: [
+//         "▪️ Redesign a platform that enables users to relish in their memories, preserving and commemorating the beautiful moments associated with NTU.",
+//         "▪️ Create an immersive website that provides users with an interactive and visually appealing experience, while still prioritizing usability and ease of navigation.",
+//       ],
+//       website_link:
+//         "https://www.figma.com/proto/xAldf4Ekl6izoc5QYWPGsU/%E5%8F%B0%E5%A4%A7%E5%87%BA%E7%89%88%E4%B8%AD%E5%BF%83?type=design&node-id=306-115&t=WJJC2tj4jgkdgnY8-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=306%3A115&show-proto-sidebar=1&mode=design",
+//     },
+//   ],
+// };
 
-const degreeout = {
-  degreeout: [
-    //
-    // {
-    //   title:
-    //     "How do students from different disciplines perceive the concept of “data”?: A visual elicitation method",
-    //   subtitle: "Tsai, Tien-I; Chang, Yun-Chi; Lin, Chieh-Ru (2022)",
-    //   logo_path: "iConf.jpeg",
-    //   //alt_name: "IIITDM Kurnool",
-    //   duration: "Publication",
-    //   descriptions: [
-    //     "🟤 Conducted synchronous online visual-elicitation interviews by transforming Hartel’s iSquare draw-and-write technique into the draw-and-tell dSquare approach.",
-    //     "🟤 Tested questionnaires, and analyzed 37 undergraduate students’ recognition of data in different disciplines.",
-    //   ],
-    //   website_link: "/test",
-    // },
-    // {
-    //   title:
-    //     "How do students from different disciplines perceive the concept of “data”?: A visual elicitation method",
-    //   subtitle: "Tsai, Tien-I; Chang, Yun-Chi; Lin, Chieh-Ru (2022)",
-    //   logo_path: "iConf.jpeg",
-    //   //alt_name: "IIITDM Kurnool",
-    //   duration: "Publication",
-    //   descriptions: [
-    //     "🟤 Conducted synchronous online visual-elicitation interviews by transforming Hartel’s iSquare draw-and-write technique into the draw-and-tell dSquare approach.",
-    //     "🟤 Tested questionnaires, and analyzed 37 undergraduate students’ recognition of data in different disciplines.",
-    //   ],
-    //   website_link: "/project1",
-    // },
+const degreein = {
+  degreein: [
+    {
+      title: "My UT",
+      subtitle: "4 UX Designers Team (Sep 2023 - Present)",
+      logo_path: "myut.png",
+      //alt_name: "IIITDM Kurnool",
+      duration: "Project",
+      descriptions: [
+        "▪️ Improve student portal by enhancing comprehensive iterations.",
+      ],
+      website_link: "/project3",
+    },
     {
       title: "Optimize NTU Press Website",
       subtitle: "3 UX Designers Team (Sep 2021 - Jan 2022)",
       logo_path: "ntupress.png",
-      //alt_name: "Indiana University Bloomington",
+      //alt_name: "IIITDM Kurnool",
       duration: "Project",
       descriptions: [
         "▪️ Redesign a platform that enables users to relish in their memories, preserving and commemorating the beautiful moments associated with NTU.",
         "▪️ Create an immersive website that provides users with an interactive and visually appealing experience, while still prioritizing usability and ease of navigation.",
       ],
-      website_link:
-        "https://www.figma.com/proto/xAldf4Ekl6izoc5QYWPGsU/%E5%8F%B0%E5%A4%A7%E5%87%BA%E7%89%88%E4%B8%AD%E5%BF%83?type=design&node-id=306-115&t=WJJC2tj4jgkdgnY8-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=306%3A115&show-proto-sidebar=1&mode=design",
+      website_link: "/project2",
     },
-  ],
-};
 
-const degreein = {
-  degreein: [
-    //
-    // {
-    //   title:
-    //     "How do students from different disciplines perceive the concept of “data”?: A visual elicitation method",
-    //   subtitle: "Tsai, Tien-I; Chang, Yun-Chi; Lin, Chieh-Ru (2022)",
-    //   logo_path: "iConf.jpeg",
-    //   //alt_name: "IIITDM Kurnool",
-    //   duration: "Publication",
-    //   descriptions: [
-    //     "🟤 Conducted synchronous online visual-elicitation interviews by transforming Hartel’s iSquare draw-and-write technique into the draw-and-tell dSquare approach.",
-    //     "🟤 Tested questionnaires, and analyzed 37 undergraduate students’ recognition of data in different disciplines.",
-    //   ],
-    //   website_link: "/test",
-    // },
     {
       title:
         "How do students from different disciplines perceive the concept of “data”?: A visual elicitation method",
@@ -865,19 +848,6 @@ const degreein = {
       ],
       website_link: "/project1",
     },
-    // {
-    //   title: "Optimize NTU Press Website",
-    //   subtitle: "3 UX Designers Team (Sep 2021 - Jan 2022)",
-    //   logo_path: "ntupress.png",
-    //   //alt_name: "Indiana University Bloomington",
-    //   duration: "Project",
-    //   descriptions: [
-    //     "🟤 Redesign a platform that enables users to relish in their memories, preserving and commemorating the beautiful moments associated with NTU.",
-    //     "🟤 Create an immersive website that provides users with an interactive and visually appealing experience, while still prioritizing usability and ease of navigation.",
-    //   ],
-    //   website_link:
-    //     "https://www.figma.com/proto/xAldf4Ekl6izoc5QYWPGsU/%E5%8F%B0%E5%A4%A7%E5%87%BA%E7%89%88%E4%B8%AD%E5%BF%83?type=design&node-id=306-115&t=WJJC2tj4jgkdgnY8-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=306%3A115&show-proto-sidebar=1&mode=design",
-    // },
   ],
 };
 
@@ -1096,7 +1066,7 @@ export {
   work1,
   competitiveSites,
   degreein,
-  degreeout,
+  // degreeout,
   certifications,
   experience,
   projectsHeader,
