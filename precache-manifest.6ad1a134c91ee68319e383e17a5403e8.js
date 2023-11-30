@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ceb61707be528ef948c4101cb5827d97",
+    "revision": "65eeec09735c275306398b676ea7449f",
     "url": "./index.html"
   },
   {
-    "revision": "9e19c7aa1064f691c97a",
-    "url": "./static/css/main.5bfc6184.chunk.css"
+    "revision": "e80da06fb7956f7f4f73",
+    "url": "./static/css/main.6614d28c.chunk.css"
   },
   {
-    "revision": "f24f5d7298fc9080df2c",
-    "url": "./static/js/2.2caed78c.chunk.js"
+    "revision": "b330be868dcd7c3673de",
+    "url": "./static/js/2.68cf4c5f.chunk.js"
   },
   {
-    "revision": "9e19c7aa1064f691c97a",
-    "url": "./static/js/main.ffea20b5.chunk.js"
+    "revision": "e80da06fb7956f7f4f73",
+    "url": "./static/js/main.28544057.chunk.js"
   },
   {
     "revision": "40ad2239ebd051263eb7",
@@ -232,10 +232,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/gcp_logo.0ee7e8c9.png"
   },
   {
-    "revision": "8ce6a309e083a0ad520c1323a92276b5",
-    "url": "./static/media/giphy.8ce6a309.gif"
-  },
-  {
     "revision": "6eeb2e810d0fd9f3ca2dcd72de228e68",
     "url": "./static/media/github_logo.6eeb2e81.png"
   },
@@ -288,8 +284,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/muffito_logo.069938a8.png"
   },
   {
-    "revision": "b55856e1f7c216af9ba7af33cc8726be",
-    "url": "./static/media/myut.b55856e1.png"
+    "revision": "83463aed81e22c1238f9a492868a7c78",
+    "url": "./static/media/myut.83463aed.png"
   },
   {
     "revision": "95a12a2b8c3149cce2175679755c4b4d",
@@ -324,8 +320,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/pwa.71408db7.png"
   },
   {
-    "revision": "440750b5afbdf8446dd583e6843eeb31",
-    "url": "./static/media/self.440750b5.jpg"
+    "revision": "d0e661e9f8f56fdd12e935b6269f80e4",
+    "url": "./static/media/self.d0e661e9.jpg"
   },
   {
     "revision": "2c497738be3831492aeb6bdc43f19154",
@@ -342,6 +338,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0993e3246bf5146154391a0afef79b03",
     "url": "./static/media/tiktok_logo.0993e324.png"
+  },
+  {
+    "revision": "f23e9d3e1552aa9473da70c7e663e2a2",
+    "url": "./static/media/tubi.f23e9d3e.png"
   },
   {
     "revision": "d63630893eb8cb64af65f395d393c481",
