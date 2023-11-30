@@ -11,11 +11,11 @@
 }
 
 .skills-text {
-  font-size: 23px;
+  font-size: 19px; /* 自介 */
 }
 
 .skills-text-div {
-  margin-left: 95px;
+  margin-left: 16px;
   line-height: 1.5;
   font-family: "Google Sans Regular";
 }
@@ -26,9 +26,9 @@
 }
 
 .skills-image-div > * {
-  width: 95%;
+  width: 80%;
   height: auto;
-  margin-top: 100px;
+  margin-top: 10px;
 }
 
 .skills-heading {
@@ -41,10 +41,11 @@
 /* Media Query */
 @media (max-width: 1380px) {
   .skills-heading {
-    font-size: 40px;
+    font-size: 30px; /* Hello, I am Jenny. */
   }
   .skills-header {
-    font-size: 50px;
+    font-size: 40px; /* About Me */
+    margin-bottom: 50px;
   }
   /* .skills-image-div > img {
     margin-top: 0px;

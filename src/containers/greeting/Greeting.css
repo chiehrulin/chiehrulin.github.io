@@ -30,29 +30,31 @@
   margin-top: 20px;
 }
 
+/* CHIEHRULIN */
 .greeting-text {
-  margin-top: 80px;
-  font-size: 70px;
+  margin-top: 10px;
+  font-size: 30px;
   line-height: 1.1;
   font-family: "Google Sans Bold";
 }
-
+/* JENNYLIN */
 .greeting-nickname {
-  font-size: 50px;
+  font-size: 35px;
   line-height: 0px;
-  font-family: "Google Sans Bold Italic";
+  font-family: "Google Sans Bold";
 }
 
 .greeting-text-p {
   font-size: 25px;
   line-height: 40px;
   margin-right: 40px;
-  font-family: "Google Sans Medium";
+  font-family: "Google Sans Regular";
 }
 
 .greeting-image-div > * {
   width: 120%;
   height: 100%;
+  margin-bottom: 0;
 }
 
 /* Media Query */

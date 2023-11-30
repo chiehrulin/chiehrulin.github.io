@@ -18,15 +18,15 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "ChiehRu Lin",
+  title: "Jenny Lin",
   logo_name: "CRLin",
-  nickname: "Jenny Lin",
+  // nickname: "Jenny Lin",
   subTitle:
     "Recently pursuing an MSIS degree at the University of Texas Austin. My passion lies in creating inclusive UX designs that ensure information accessibility for all.",
   resumeLink:
-    "https://drive.google.com/file/d/149rWdivx2eoeyo--pbVReVjXj9qnb_fr/view?usp=sharing",
+    "https://drive.google.com/file/d/1INZ4cRl1lUQjIDwZ64QsDEBXcMQlOc7i/view?usp=drive_link",
   portfolio_repository:
-    "https://drive.google.com/file/d/149rWdivx2eoeyo--pbVReVjXj9qnb_fr/view?usp=sharing",
+    "https://drive.google.com/file/d/1INZ4cRl1lUQjIDwZ64QsDEBXcMQlOc7i/view?usp=drive_link",
   githubProfile: "https://github.com/chiehrulin",
 };
 
@@ -53,13 +53,12 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Hello! I am Jenny!",
+      title: "Hello! I am Jenny.",
       fileName: "",
       skills: [
-        "Before entering to UT Austin, I earned a bachelor's degree from National Taiwan University (NTU) in Japanese Language and Literature and Library and Information Science. I also had the opportunity to study at Radboud University in the Netherlands in 2022-2023, focusing on HCI and Communication studies.",
-        "In my academic journey, I became passionate about information studies, especially in data literacy, data visualization, and information behavior. I also learned coding to create user-friendly software, improving my communication with cross-functional teams and collaborating effectively with developers.",
-        "During an internship at the Ministry of Foreign Affairs (R.O.C.), I implemented a new interface with my team in their information management system, improving document cataloging, archiving, and access.",
-        "These experiences have strengthened my belief in the inseparable relationship between humans and information, leading me to contribute my skills and expertise to new projects in the future.",
+        "I am currently focused on eHealth and inclusive UX design at UT Austin. My goal is to create thoughtful and accessible designs, making it useful and beneficial for everyone.",
+        "With the background in Library and Information Science and extensive HCI study in the Netherlands, my academic journey has enriched my skills in data literacy, visualization, and incorporated coding to create user-friendly software.",
+        "I am enthusiastic about the prospect of gaining more real-world experiences and making a meaningful impact by contributing to innovative design projects",
       ],
       softwareSkills: [
         {
@@ -812,42 +811,42 @@ const competitiveSites = {
 const degreein = {
   degreein: [
     {
-      title: "My UT",
-      subtitle: "4 UX Designers Team (Sep 2023 - Present)",
+      title: "My UT | 4 UX Designers Team ",
+      subtitle:
+        "Responsibility: UX Research, UI Design, Prototype, Collaboration",
       logo_path: "myut.png",
       //alt_name: "IIITDM Kurnool",
-      duration: "Project",
+      duration: "Aug. - Nov. 2023",
       descriptions: [
-        "▪️ Improve student portal by enhancing comprehensive iterations.",
+        "Redesigned the University of Texas at Austin's student portal to optimize user flow and design concepts, specifically focusing on mobile accessibility.",
       ],
       website_link: "/project3",
     },
-    {
-      title: "Optimize NTU Press Website",
-      subtitle: "3 UX Designers Team (Sep 2021 - Jan 2022)",
-      logo_path: "ntupress.png",
-      //alt_name: "IIITDM Kurnool",
-      duration: "Project",
-      descriptions: [
-        "▪️ Redesign a platform that enables users to relish in their memories, preserving and commemorating the beautiful moments associated with NTU.",
-        "▪️ Create an immersive website that provides users with an interactive and visually appealing experience, while still prioritizing usability and ease of navigation.",
-      ],
-      website_link: "/project2",
-    },
+    // {
+    //   title: "Optimize NTU Press Website",
+    //   subtitle: "3 UX Designers Team (Sep 2021 - Jan 2022)",
+    //   logo_path: "ntupress.png",
+    //   //alt_name: "IIITDM Kurnool",
+    //   duration: "Project",
+    //   descriptions: [
+    //     "Designed an immersive website to improve user experience as well as inclusive accessibility. Conducted iteration and applied interactive components that adhered to the principles of heuristic evaluation for user-centered design.",
+    //   ],
+    //   website_link: "/project2",
+    // },
 
-    {
-      title:
-        "How do students from different disciplines perceive the concept of “data”?: A visual elicitation method",
-      subtitle: "Tsai, Tien-I; Chang, Yun-Chi; Lin, Chieh-Ru (2022)",
-      logo_path: "iConf.jpeg",
-      //alt_name: "IIITDM Kurnool",
-      duration: "Publication",
-      descriptions: [
-        "▪️ Conducted synchronous online visual-elicitation interviews by transforming Hartel’s iSquare draw-and-write technique into the draw-and-tell dSquare approach.",
-        "▪️ Tested questionnaires, and analyzed 37 undergraduate students’ recognition of data in different disciplines.",
-      ],
-      website_link: "/project1",
-    },
+    // {
+    //   title:
+    //     "How do students from different disciplines perceive the concept of “data”?: A visual elicitation method",
+    //   subtitle: "Tsai, Tien-I; Chang, Yun-Chi; Lin, Chieh-Ru (2022)",
+    //   logo_path: "iConf.jpeg",
+    //   //alt_name: "IIITDM Kurnool",
+    //   duration: "Publication",
+    //   descriptions: [
+    //     "Conducted synchronous online visual-elicitation interviews by transforming Hartel’s iSquare draw-and-write technique into the draw-and-tell dSquare approach. Tested questionnaires, and analyzed 37 undergraduate students’ recognition of data in different disciplines.",
+
+    //   ],
+    //   website_link: "/project1",
+    // },
   ],
 };
 

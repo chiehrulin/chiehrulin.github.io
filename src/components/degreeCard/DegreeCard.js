@@ -35,6 +35,8 @@ class DegreeCard extends Component {
             >
               <div className="body-header-title">
                 <h2 className="card-title" style={{ color: theme.text }}>
+                  {" "}
+                  {/* project 標題  */}
                   {degree.title}
                 </h2>
                 <h3 className="card-subtitle" style={{ color: theme.text }}>
@@ -68,10 +70,10 @@ class DegreeCard extends Component {
                 >
                   <div
                     className="visit-btn"
-                    style={{ backgroundColor: theme.headerColor }}
+                    style={{ backgroundColor: "ffffff" }}
                   >
                     <p className="btn" style={{ color: theme.text }}>
-                      View More
+                      View Case Study ➜
                     </p>
                   </div>
                 </NavLink>

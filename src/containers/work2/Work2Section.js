@@ -56,7 +56,7 @@ class Work2Section extends Component {
           height="10%"
         ></img>
 
-        <a href="https://www.figma.com/proto/xAldf4Ekl6izoc5QYWPGsU/%E5%8F%B0%E5%A4%A7%E5%87%BA%E7%89%88%E4%B8%AD%E5%BF%83?type=design&node-id=306-115&t=iLMLcA3kezBEFjhT-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=306%3A115&show-proto-sidebar=1&mode=design">
+        <a href="https://www.figma.com/proto/amFxE9kEotydBLBJfeLfUy/%E5%8F%B0%E5%A4%A7%E5%87%BA%E7%89%88%E4%B8%AD%E5%BF%83-(Copy)?type=design&node-id=306-115&t=PI8QI7wCB7sObsb8-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=306%3A115&show-proto-sidebar=1">
           Link to my full Figma work file here!
         </a>
 

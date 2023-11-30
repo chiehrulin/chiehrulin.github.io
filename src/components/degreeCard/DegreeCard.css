@@ -82,7 +82,7 @@
 }
 
 .visit-btn {
-  /* background-color: #6c63ff99; */
+  /* background-color: #6c63ff99;  */
   display: inline-block;
   margin: 0px 10px 10px 0px;
   padding: 10px;
@@ -92,7 +92,7 @@
 }
 
 .visit-btn:hover {
-  /* background-color:#6c63ffcc; */
+  background-color: #6c63ffcc;
 }
 
 .btn {

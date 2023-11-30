@@ -7,13 +7,13 @@
 
 .card-title {
   font-family: "Google Sans Medium";
-  font-size: 23px;
+  font-size: 20px;
   /* color: #000000; */
 }
 
 .card-subtitle {
-  font-family: "Google Sans Medium";
-  font-size: 18px;
+  font-family: "Google Sans Regular";
+  font-size: 16px;
   /* color: #000000; */
   margin-top: 7px;
   margin-bottom: 5px;
@@ -49,7 +49,7 @@
 }
 .duration {
   font-family: "Google Sans Regular";
-  font-size: 16px;
+  font-size: 14px;
   /* color: #212121; */
   padding-right: 10px;
   float: right;
@@ -59,16 +59,18 @@
   max-width: inherit;
   /* width: 100%; */
   border-radius: 0px 0px 7px 7px;
-  padding: 10px;
+  padding: 14px;
   justify-content: center;
   align-items: center;
   /* box-shadow: 5px 5px 5px #d3d3d3; */
 }
 
 .content-list {
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 0px;
+  padding-right: 0px;
   font-family: "Google Sans Regular";
+  font-size: 16px;
+  line-height: 24px;
 }
 
 .card-body {
@@ -84,21 +86,23 @@
 .visit-btn {
   /* background-color: #6c63ff99; */
   display: inline-block;
-  margin: 0px 10px 10px 0px;
+  margin: 0px 0px 10px 0px;
   padding: 10px;
-  border-radius: 7px;
+  border-radius: 50px;
   border: 0px;
   float: right;
 }
 
 .visit-btn:hover {
-  /* background-color:#6c63ffcc; */
+  background-color: #ffffff;
 }
 
 .btn {
   margin: 0px;
   padding: 0px;
-  font-family: "Google Sans Regular";
+  font-family: "Google Sans Medium";
+  font-size: 12px;
+  text-decoration: underline;
   /* color: #000000; */
 }
 

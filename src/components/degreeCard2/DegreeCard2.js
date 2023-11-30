@@ -67,7 +67,7 @@ class DegreeCard2 extends Component {
                     style={{ backgroundColor: theme.headerColor }}
                   >
                     <p className="btn" style={{ color: theme.text }}>
-                      View More
+                      More
                     </p>
                   </div>
                   {/* </NavLink> */}
