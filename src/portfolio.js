@@ -19,7 +19,7 @@ const seo = {
 //Home Page
 const greeting = {
   title: "Jenny Lin",
-  logo_name: "CRLin",
+  logo_name: "JL",
   // nickname: "Jenny Lin",
   subTitle:
     "Recently pursuing an MSIS degree at the University of Texas Austin. My passion lies in creating inclusive UX designs that ensure information accessibility for all.",
