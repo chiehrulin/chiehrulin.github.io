@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.8be720cb.chunk.css",
-    "main.js": "./static/js/main.eddea5e3.chunk.js",
-    "main.js.map": "./static/js/main.eddea5e3.chunk.js.map",
+    "main.css": "./static/css/main.50effe57.chunk.css",
+    "main.js": "./static/js/main.c9bfb7c1.chunk.js",
+    "main.js.map": "./static/js/main.c9bfb7c1.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.c602ebe1.js",
     "runtime-main.js.map": "./static/js/runtime-main.c602ebe1.js.map",
     "static/js/2.009a8639.chunk.js": "./static/js/2.009a8639.chunk.js",
     "static/js/2.009a8639.chunk.js.map": "./static/js/2.009a8639.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.4b1c28e7fb86294b45b049935db87d53.js": "./precache-manifest.4b1c28e7fb86294b45b049935db87d53.js",
+    "precache-manifest.b48a88a6ddde4490b22e5bf21445dd91.js": "./precache-manifest.b48a88a6ddde4490b22e5bf21445dd91.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.8be720cb.chunk.css.map": "./static/css/main.8be720cb.chunk.css.map",
+    "static/css/main.50effe57.chunk.css.map": "./static/css/main.50effe57.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/National_Taiwan_University.png": "./static/media/National_Taiwan_University.e6d14606.png",
     "static/media/ROC_Ministry_of_Foreign_Affairs.png": "./static/media/ROC_Ministry_of_Foreign_Affairs.22cf1e8a.png",
@@ -23,8 +23,8 @@
     "static/media/Work2Page6.png": "./static/media/Work2Page6.cd0c0af8.png",
     "static/media/Work2Page7.png": "./static/media/Work2Page7.6986f47c.png",
     "static/media/Work2Page9.png": "./static/media/Work2Page9.9e54fe04.png",
-    "static/media/Work3Page1.png": "./static/media/Work3Page1.0504c5c1.png",
-    "static/media/Work3Page2.png": "./static/media/Work3Page2.0e16ccc1.png",
+    "static/media/Work3Page1.png": "./static/media/Work3Page1.d6b05100.png",
+    "static/media/Work3Page2.png": "./static/media/Work3Page2.99625ca4.png",
     "static/media/address_image.svg": "./static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "./static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "./static/media/animated_logo.dcd6dee2.svg",
@@ -77,7 +77,7 @@
   "entrypoints": [
     "static/js/runtime-main.c602ebe1.js",
     "static/js/2.009a8639.chunk.js",
-    "static/css/main.8be720cb.chunk.css",
-    "static/js/main.eddea5e3.chunk.js"
+    "static/css/main.50effe57.chunk.css",
+    "static/js/main.c9bfb7c1.chunk.js"
   ]
 }
