@@ -11,7 +11,7 @@
 }
 
 .skills-text {
-  font-size: 19px; /* 自介 */
+  font-size: 25px; /* 自介 */
 }
 
 .skills-text-div {
@@ -41,10 +41,10 @@
 /* Media Query */
 @media (max-width: 1380px) {
   .skills-heading {
-    font-size: 30px; /* Hello, I am Jenny. */
+    font-size: 28px; /* Hello, I am Jenny. */
   }
   .skills-header {
-    font-size: 40px; /* About Me */
+    font-size: 30px; /* About Me */
     margin-bottom: 50px;
   }
   /* .skills-image-div > img {
