@@ -72,19 +72,21 @@ class Work3Section extends Component {
           height="10%"
         ></img>
 
-        <img
-          alt="MyUT"
-          src={require("../../assests/images/Work3Page2.png")}
-          width="100%"
-          height="10%"
-        ></img>
+        <div className="work3-gif-div">
+          <img
+            alt="MyUT"
+            src={require("../../assests/images/v1.gif")}
+            width="25%"
+            height="10%"
+          ></img>
 
-        {/* <img
+          {/* <img
           alt="MyUT"
           src={require("../../assests/images/giphy.gif")}
           width="10%"
           height="10%"
         ></img> */}
+        </div>
       </div>
     );
   }

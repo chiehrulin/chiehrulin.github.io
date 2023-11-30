@@ -1,5 +1,5 @@
 .work3-main-div {
-  display: flex;
+  position: absolute;
   overflow: hidden;
 }
 
@@ -25,11 +25,18 @@
 }
 
 .work3-image-div > * {
-  max-width: 70%;
+  max-width: 90%;
   height: auto;
   margin-top: 10px;
-  margin: auto;
   display: block;
+}
+
+.work3-gif-div > * {
+  max-width: 90%;
+  height: auto;
+  margin-top: 80px;
+  display: block;
+  margin-left: 40%;
 }
 
 .work3-heading {
@@ -81,7 +88,9 @@
     /* display: none; */
     order: 2;
   }
-  .work3-image-div > * {
-    margin-top: 0px;
+  .work3-gif-div {
+    /* display: none; */
+    order: 2;
+    margin-top: auto;
   }
 }
