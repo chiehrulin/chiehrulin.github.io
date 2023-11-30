@@ -24,9 +24,9 @@ const greeting = {
   subTitle:
     "Recently pursuing an MSIS degree at the University of Texas Austin. My passion lies in creating inclusive UX designs that ensure information accessibility for all.",
   resumeLink:
-    "https://drive.google.com/file/d/1INZ4cRl1lUQjIDwZ64QsDEBXcMQlOc7i/view?usp=drive_link",
+    "https://drive.google.com/file/d/15AmC0d41HQg1MkqCWXW-sDwpE0qxrEEt/view?usp=drive_link",
   portfolio_repository:
-    "https://drive.google.com/file/d/1INZ4cRl1lUQjIDwZ64QsDEBXcMQlOc7i/view?usp=drive_link",
+    "https://drive.google.com/file/d/15AmC0d41HQg1MkqCWXW-sDwpE0qxrEEt/view?usp=drive_link",
   githubProfile: "https://github.com/chiehrulin",
 };
 
@@ -813,26 +813,26 @@ const degreein = {
     {
       title: "My UT | 4 UX Designers Team ",
       subtitle:
-        "Responsibility: UX Research, UI Design, Prototype, Collaboration",
+        "My responsibility: UX Research, UI Design, Prototype, Accessibility, Collaboration",
       logo_path: "myut.png",
       //alt_name: "IIITDM Kurnool",
       duration: "Aug. - Nov. 2023",
       descriptions: [
-        "Redesigned the University of Texas at Austin's student portal to optimize user flow and design concepts, specifically focusing on mobile accessibility.",
+        "Optimized user flow and design concepts, with a specific emphasis on mobile accessibility, for the student portal at the University of Texas at Austin. ",
       ],
       website_link: "/project3",
     },
-    // {
-    //   title: "Optimize NTU Press Website",
-    //   subtitle: "3 UX Designers Team (Sep 2021 - Jan 2022)",
-    //   logo_path: "ntupress.png",
-    //   //alt_name: "IIITDM Kurnool",
-    //   duration: "Project",
-    //   descriptions: [
-    //     "Designed an immersive website to improve user experience as well as inclusive accessibility. Conducted iteration and applied interactive components that adhered to the principles of heuristic evaluation for user-centered design.",
-    //   ],
-    //   website_link: "/project2",
-    // },
+    {
+      title: "Tubi Accessibility | 1 Designer + 1 Researcher",
+      subtitle: "My responsibility: Inclusive Redesign, Collaboration",
+      logo_path: "tubi.png",
+      //alt_name: "IIITDM Kurnool",
+      duration: "Aug. - Dec. 2023",
+      descriptions: [
+        "Redesigned Tubi platform to improve user experience as well as inclusive accessibility in accordance with WCAG 2.2 standards.",
+      ],
+      website_link: "/project2",
+    },
 
     // {
     //   title:
