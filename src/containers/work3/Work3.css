@@ -34,7 +34,7 @@
 .work3-gif-div > * {
   max-width: 90%;
   height: auto;
-  margin-top: 80px;
+  margin-top: 8px;
   display: block;
   margin-left: 40%;
 }
@@ -92,6 +92,6 @@
   .work3-gif-div {
     /* display: none; */
     order: 2;
-    margin-top: auto;
+    margin-top: 0px;
   }
 }
