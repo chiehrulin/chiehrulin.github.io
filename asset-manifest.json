@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.50effe57.chunk.css",
-    "main.js": "./static/js/main.c9bfb7c1.chunk.js",
-    "main.js.map": "./static/js/main.c9bfb7c1.chunk.js.map",
+    "main.css": "./static/css/main.fd7c5f4c.chunk.css",
+    "main.js": "./static/js/main.ec1d5481.chunk.js",
+    "main.js.map": "./static/js/main.ec1d5481.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.c602ebe1.js",
     "runtime-main.js.map": "./static/js/runtime-main.c602ebe1.js.map",
-    "static/js/2.009a8639.chunk.js": "./static/js/2.009a8639.chunk.js",
-    "static/js/2.009a8639.chunk.js.map": "./static/js/2.009a8639.chunk.js.map",
+    "static/js/2.fae97f44.chunk.js": "./static/js/2.fae97f44.chunk.js",
+    "static/js/2.fae97f44.chunk.js.map": "./static/js/2.fae97f44.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.b48a88a6ddde4490b22e5bf21445dd91.js": "./precache-manifest.b48a88a6ddde4490b22e5bf21445dd91.js",
+    "precache-manifest.115f5efa9ebf2361b3660ec2d2b3e442.js": "./precache-manifest.115f5efa9ebf2361b3660ec2d2b3e442.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.50effe57.chunk.css.map": "./static/css/main.50effe57.chunk.css.map",
+    "static/css/main.fd7c5f4c.chunk.css.map": "./static/css/main.fd7c5f4c.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/National_Taiwan_University.png": "./static/media/National_Taiwan_University.e6d14606.png",
     "static/media/ROC_Ministry_of_Foreign_Affairs.png": "./static/media/ROC_Ministry_of_Foreign_Affairs.22cf1e8a.png",
@@ -23,7 +23,7 @@
     "static/media/Work2Page6.png": "./static/media/Work2Page6.cd0c0af8.png",
     "static/media/Work2Page7.png": "./static/media/Work2Page7.6986f47c.png",
     "static/media/Work2Page9.png": "./static/media/Work2Page9.9e54fe04.png",
-    "static/media/Work3Page1.png": "./static/media/Work3Page1.d6b05100.png",
+    "static/media/Work3Page1.png": "./static/media/Work3Page1.77a379c3.png",
     "static/media/Work3Page2.png": "./static/media/Work3Page2.99625ca4.png",
     "static/media/address_image.svg": "./static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "./static/media/animated_ashutosh.eaf02c2d.png",
@@ -41,6 +41,7 @@
     "static/media/experience.svg": "./static/media/experience.a00ede3f.svg",
     "static/media/all.css": "./static/media/fa-solid-900.8e4a6dcc.eot",
     "static/media/feelingProud.svg": "./static/media/feelingProud.2936ce95.svg",
+    "static/media/final.png": "./static/media/final.ab1a5df3.png",
     "static/media/fullstack.svg": "./static/media/fullstack.fce60807.svg",
     "static/media/gcp_logo.png": "./static/media/gcp_logo.0ee7e8c9.png",
     "static/media/github_logo.png": "./static/media/github_logo.6eeb2e81.png",
@@ -76,8 +77,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c602ebe1.js",
-    "static/js/2.009a8639.chunk.js",
-    "static/css/main.50effe57.chunk.css",
-    "static/js/main.c9bfb7c1.chunk.js"
+    "static/js/2.fae97f44.chunk.js",
+    "static/css/main.fd7c5f4c.chunk.css",
+    "static/js/main.ec1d5481.chunk.js"
   ]
 }
