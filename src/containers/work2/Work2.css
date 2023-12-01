@@ -30,6 +30,12 @@
   font-family: "Google Sans Regular";
   line-height: normal;
 }
+.work2-image-div > * {
+  max-width: 90%;
+  height: auto;
+  margin-top: 10px;
+  display: block;
+}
 
 /* Media Query */
 @media (max-width: 1380px) {

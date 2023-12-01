@@ -5,80 +5,13 @@ class Work2Section extends Component {
   render() {
     const theme = this.props.theme;
     return (
-      <div>
+      <div className="work2-image-div">
         <img
-          alt="NTU Press Website"
-          src={require("../../assests/images/Work2Page1.png")}
+          alt="Tubi"
+          src={require("../../assests/images/tubiportfolio.png")}
           width="100%"
-          height="10%"
-          align="right"
-        ></img>
-
-        <img
-          alt="NTU Press Website"
-          src={require("../../assests/images/Work2Page2.png")}
-          width="100%"
-          height="10%"
-        ></img>
-
-        <img
-          alt="NTU Press Website"
-          src={require("../../assests/images/Work2Page3.png")}
-          width="100%"
-          height="10%"
-        ></img>
-
-        <img
-          alt="NTU Press Website"
-          src={require("../../assests/images/Work2Page4.png")}
-          width="100%"
-          height="10%"
-        ></img>
-
-        <img
-          alt="NTU Press Website"
-          src={require("../../assests/images/Work2Page5.png")}
-          width="100%"
-          height="10%"
-        ></img>
-
-        <img
-          alt="NTU Press Website"
-          src={require("../../assests/images/Work2Page6.png")}
-          width="100%"
-          height="10%"
-        ></img>
-
-        <img
-          alt="NTU Press Website"
-          src={require("../../assests/images/Work2Page7.png")}
-          width="100%"
-          height="10%"
-        ></img>
-
-        <a href="https://www.figma.com/proto/amFxE9kEotydBLBJfeLfUy/%E5%8F%B0%E5%A4%A7%E5%87%BA%E7%89%88%E4%B8%AD%E5%BF%83-(Copy)?type=design&node-id=306-115&t=PI8QI7wCB7sObsb8-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=306%3A115&show-proto-sidebar=1">
-          Link to my full Figma work file here!
-        </a>
-
-        <img
-          alt="NTU Press Website"
-          src={require("../../assests/images/Work2Page8.png")}
-          width="100%"
-          height="10%"
-        ></img>
-
-        <img
-          alt="NTU Press Website"
-          src={require("../../assests/images/Work2Page9.png")}
-          width="100%"
-          height="10%"
-        ></img>
-
-        <img
-          alt="NTU Press Website"
-          src={require("../../assests/images/Work2Page10.png")}
-          width="100%"
-          height="10%"
+          height="100%"
+          // align="right"
         ></img>
       </div>
     );
