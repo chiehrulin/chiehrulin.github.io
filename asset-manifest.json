@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.fd7c5f4c.chunk.css",
-    "main.js": "./static/js/main.ec1d5481.chunk.js",
-    "main.js.map": "./static/js/main.ec1d5481.chunk.js.map",
+    "main.css": "./static/css/main.7b91b524.chunk.css",
+    "main.js": "./static/js/main.6197d708.chunk.js",
+    "main.js.map": "./static/js/main.6197d708.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.c602ebe1.js",
     "runtime-main.js.map": "./static/js/runtime-main.c602ebe1.js.map",
-    "static/js/2.fae97f44.chunk.js": "./static/js/2.fae97f44.chunk.js",
-    "static/js/2.fae97f44.chunk.js.map": "./static/js/2.fae97f44.chunk.js.map",
+    "static/js/2.b455d3fa.chunk.js": "./static/js/2.b455d3fa.chunk.js",
+    "static/js/2.b455d3fa.chunk.js.map": "./static/js/2.b455d3fa.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.115f5efa9ebf2361b3660ec2d2b3e442.js": "./precache-manifest.115f5efa9ebf2361b3660ec2d2b3e442.js",
+    "precache-manifest.40c3313ffb068dc0a2fd9f4a9193dcb0.js": "./precache-manifest.40c3313ffb068dc0a2fd9f4a9193dcb0.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.fd7c5f4c.chunk.css.map": "./static/css/main.fd7c5f4c.chunk.css.map",
+    "static/css/main.7b91b524.chunk.css.map": "./static/css/main.7b91b524.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/National_Taiwan_University.png": "./static/media/National_Taiwan_University.e6d14606.png",
     "static/media/ROC_Ministry_of_Foreign_Affairs.png": "./static/media/ROC_Ministry_of_Foreign_Affairs.22cf1e8a.png",
@@ -72,13 +72,14 @@
     "static/media/talksCardBackAlt.svg": "./static/media/talksCardBackAlt.3fa54242.svg",
     "static/media/tiktok_logo.png": "./static/media/tiktok_logo.0993e324.png",
     "static/media/tubi.png": "./static/media/tubi.f23e9d3e.png",
+    "static/media/tubiportfolio.png": "./static/media/tubiportfolio.f54e3788.png",
     "static/media/ui_ux_design.svg": "./static/media/ui_ux_design.d6363089.svg",
     "static/media/v1.gif": "./static/media/v1.d6aa0ec2.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.c602ebe1.js",
-    "static/js/2.fae97f44.chunk.js",
-    "static/css/main.fd7c5f4c.chunk.css",
-    "static/js/main.ec1d5481.chunk.js"
+    "static/js/2.b455d3fa.chunk.js",
+    "static/css/main.7b91b524.chunk.css",
+    "static/js/main.6197d708.chunk.js"
   ]
 }
