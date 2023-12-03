@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.7b91b524.chunk.css",
-    "main.js": "./static/js/main.1868c2c1.chunk.js",
-    "main.js.map": "./static/js/main.1868c2c1.chunk.js.map",
+    "main.js": "./static/js/main.e5e8dc56.chunk.js",
+    "main.js.map": "./static/js/main.e5e8dc56.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.c602ebe1.js",
     "runtime-main.js.map": "./static/js/runtime-main.c602ebe1.js.map",
-    "static/js/2.b455d3fa.chunk.js": "./static/js/2.b455d3fa.chunk.js",
-    "static/js/2.b455d3fa.chunk.js.map": "./static/js/2.b455d3fa.chunk.js.map",
+    "static/js/2.686d4868.chunk.js": "./static/js/2.686d4868.chunk.js",
+    "static/js/2.686d4868.chunk.js.map": "./static/js/2.686d4868.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.dd5b074e5e3c46f0689f3c202951a593.js": "./precache-manifest.dd5b074e5e3c46f0689f3c202951a593.js",
+    "precache-manifest.46880f932bb070e4c8ff47f97cf4f8a8.js": "./precache-manifest.46880f932bb070e4c8ff47f97cf4f8a8.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.7b91b524.chunk.css.map": "./static/css/main.7b91b524.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
@@ -41,7 +41,7 @@
     "static/media/experience.svg": "./static/media/experience.a00ede3f.svg",
     "static/media/all.css": "./static/media/fa-solid-900.8e4a6dcc.eot",
     "static/media/feelingProud.svg": "./static/media/feelingProud.2936ce95.svg",
-    "static/media/final.png": "./static/media/final.ab1a5df3.png",
+    "static/media/final.png": "./static/media/final.026308da.png",
     "static/media/fullstack.svg": "./static/media/fullstack.fce60807.svg",
     "static/media/gcp_logo.png": "./static/media/gcp_logo.0ee7e8c9.png",
     "static/media/github_logo.png": "./static/media/github_logo.6eeb2e81.png",
@@ -72,14 +72,15 @@
     "static/media/talksCardBackAlt.svg": "./static/media/talksCardBackAlt.3fa54242.svg",
     "static/media/tiktok_logo.png": "./static/media/tiktok_logo.0993e324.png",
     "static/media/tubi.png": "./static/media/tubi.f23e9d3e.png",
-    "static/media/tubiportfolio.png": "./static/media/tubiportfolio.1394f0b4.png",
+    "static/media/tubiportfolio.png": "./static/media/tubiportfolio.a00fb354.png",
     "static/media/ui_ux_design.svg": "./static/media/ui_ux_design.d6363089.svg",
-    "static/media/v1.gif": "./static/media/v1.d6aa0ec2.gif"
+    "static/media/v1.gif": "./static/media/v1.30254694.gif",
+    "static/media/v2.gif": "./static/media/v2.dedf48c3.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.c602ebe1.js",
-    "static/js/2.b455d3fa.chunk.js",
+    "static/js/2.686d4868.chunk.js",
     "static/css/main.7b91b524.chunk.css",
-    "static/js/main.1868c2c1.chunk.js"
+    "static/js/main.e5e8dc56.chunk.js"
   ]
 }
