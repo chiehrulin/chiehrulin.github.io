@@ -5,6 +5,12 @@ class Work2Section extends Component {
   render() {
     const theme = this.props.theme;
     return (
+      // <div>
+      //   <img
+      //       alt="MyUT"
+      //       src={require("../../assests/images/v2.gif")}
+
+      //     ></img>
       <div className="work2-image-div">
         <img
           alt="Tubi"

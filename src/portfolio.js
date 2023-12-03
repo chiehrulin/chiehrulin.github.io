@@ -813,7 +813,7 @@ const degreein = {
     {
       title: "My UT | 4 UX Designers Team ",
       subtitle:
-        "My responsibility: UX Research, UI Design, Prototype, Accessibility, Collaboration",
+        "My responsibility: Research, Design, Prototype, Accessibility, Collaboration",
       logo_path: "myut.png",
       //alt_name: "IIITDM Kurnool",
       duration: "Aug. - Nov. 2023",
@@ -824,10 +824,11 @@ const degreein = {
     },
     {
       title: "Tubi Accessibility | 1 Designer + 1 Researcher",
-      subtitle: "My responsibility: Inclusive Redesign, Collaboration",
+      subtitle:
+        "My responsibility: UX Design, Accessibility Audit, Collaboration",
       logo_path: "tubi.png",
       //alt_name: "IIITDM Kurnool",
-      duration: "Aug. - Dec. 2023",
+      duration: "Sep. - Oct. 2023",
       descriptions: [
         "Redesigned Tubi platform to improve user experience as well as inclusive accessibility in accordance with WCAG 2.2 standards.",
       ],
